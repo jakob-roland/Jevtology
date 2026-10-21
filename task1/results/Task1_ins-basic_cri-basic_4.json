@@ -1,0 +1,23 @@
+{
+    "Title": "Task1_ins-basic_cri-basic",
+    "Date": "2026/10/21 21:10",
+    "Task": "1",
+    "instructions_id": "basic",
+    "instructions": "What topological predicate best describes the relationship between Place A and Place B? The predicates follow the definition of DE-9IM.",
+    "criteria_id": "basic",
+    "criteria": {
+        "contains": "",
+        "within": "",
+        "touches": "",
+        "crosses": "",
+        "disjoint": "",
+        "overlaps": "",
+        "equals": ""
+    },
+    "model": "jev-1.13.0",
+    "Input Tokens": 764950,
+    "Output Tokens": 103357,
+    "Duration": "01:09:23 (h:m:s)",
+    "Accuracy": "35.64%",
+    "Results": 1400
+}

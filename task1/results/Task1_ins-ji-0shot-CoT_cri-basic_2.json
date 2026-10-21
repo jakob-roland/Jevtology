@@ -1,0 +1,23 @@
+{
+    "Title": "Task1_ins-ji-0shot-CoT_cri-basic",
+    "Date": "2026/10/21 21:09",
+    "Task": "1",
+    "instructions_id": "ji-0shot-CoT",
+    "instructions": "You will be given the WKT format of geometries given the subject A and reference object B. Classify their spatial relations into one of the predicates defined by DE-9IM and the Open Geospatial Consortium. If A equals to B, there is no need to return 'within' or 'contains'. Let's think step by step.",
+    "criteria_id": "basic",
+    "criteria": {
+        "contains": "",
+        "within": "",
+        "touches": "",
+        "crosses": "",
+        "disjoint": "",
+        "overlaps": "",
+        "equals": ""
+    },
+    "model": "jev-1.13.0",
+    "Input Tokens": 827950,
+    "Output Tokens": 103218,
+    "Duration": "01:08:25 (h:m:s)",
+    "Accuracy": "44.71%",
+    "Results": 1400
+}

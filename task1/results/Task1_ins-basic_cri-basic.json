@@ -1,6 +1,6 @@
 {
     "Title": "Task1_ins-basic_cri-basic",
-    "Date": "2026/10/20 10:01",
+    "Date": "2026/10/21 21:07",
     "Task": "1",
     "instructions_id": "basic",
     "instructions": "What topological predicate best describes the relationship between Place A and Place B? The predicates follow the definition of DE-9IM.",
@@ -14,15 +14,10 @@
         "overlaps": "",
         "equals": ""
     },
-    "model": "jev-latest",
-    "model_metadata": {
-        "name": "jev-latest",
-        "description": "The latest iteration of TypeSafe's System One Model: Jev",
-        "release_date": "2026-09-10T18:38:01.391457+00:00"
-    },
+    "model": "jev-1.13.0",
     "Input Tokens": 764950,
-    "Output Tokens": 103353,
-    "Duration": "01:20:24 (h:m:s)",
-    "Accuracy": "36.0%",
+    "Output Tokens": 103349,
+    "Duration": "01:07:01 (h:m:s)",
+    "Accuracy": "35.79%",
     "Results": 1400
 }

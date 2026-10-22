@@ -306,6 +306,7 @@ OUTPUT main.bcf
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
+INPUT /usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf
@@ -346,7 +347,6 @@ INPUT /usr/share/fonts/truetype/noto/NotoSans-Regular.ttf
 INPUT /usr/share/fonts/truetype/noto/NotoSans-Italic.ttf
 INPUT /usr/share/fonts/truetype/noto/NotoSans-Regular.ttf
 INPUT /usr/share/fonts/truetype/noto/NotoSans-Bold.ttf
-INPUT /usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./main.aux
 INPUT ./main.out
 INPUT ./main.run.xml

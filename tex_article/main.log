@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  22 OCT 2026 09:50
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.2)  22 OCT 2026 12:15
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/jakob/Desktop/Jevtology/tex_article/main.tex
@@ -1455,14 +1455,14 @@ Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
- (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+ [1
+
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
-) [1
-
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-runsystem(latexminted cleantemp  --timestamp 20261022095052 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+) [2]
+runsystem(latexminted cleantemp  --timestamp 20261022121501 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
  (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
@@ -1476,12 +1476,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 44228 strings out of 475703
+ 44235 strings out of 475703
  125086,2373549 words of node,token memory allocated
  1563 words of node memory still in use:
    30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 199 attribute, 72 glue_spec, 67 attribute_list, 2 write, 48 pdf_literal nodes
-   avail lists: 1:6,2:350,3:112,4:11,5:234,6:21,7:5056,9:172,10:10,11:384,12:1
- 66065 multiletter control sequences out of 65536+600000
+   avail lists: 1:6,2:450,3:165,4:10,5:333,6:31,7:7990,9:235,10:10,11:636,12:2
+ 66068 multiletter control sequences out of 65536+600000
  52 fonts using 21121583 bytes
  103i,5n,116p,2265b,1749s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -1491,10 +1491,10 @@ warning  (pdf backend): unreferenced destination with name 'cite.0@shiGeographyA
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@janowiczPhilosophicalFoundationsGeoAI2023'
 </usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
-Output written on main.pdf (1 page, 70180 bytes).
+Output written on main.pdf (2 pages, 75349 bytes).
 
-PDF statistics: 82 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 1048576)
+PDF statistics: 94 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 1048576)
  261 words of extra memory for PDF output out of 10000 (max. 100000000)
 

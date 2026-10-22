@@ -1,0 +1,129 @@
+% !TEX root = main.tex
+% LTeX: enabled=false
+% IDE used for development: VS CODE with Latex Workshop
+% TeX Live 2026
+% Compile with LuaLatex
+
+\documentclass[12pt, a4paper]{article}
+
+% region — GENERAL PACKAGES o7
+\usepackage{hyperref}       % link handling and pdf metadata
+\usepackage{hyperxmp}       % link handling and pdf metadata
+\usepackage{xurl}           % url handling
+\usepackage{lua-ul}         % underlines, highlights, etc
+\usepackage{luacolor}       % color overall
+\usepackage{rotating}       % used for rotating :O (sidewaystable)
+\usepackage{enumitem}       % used for custom enumeration (\begin{enumerate}[label=Question \arabic*:])
+\usepackage{multicol}       % used for multicolumns
+% endregion
+
+% region — LANUGUAGE and locale settings 
+\usepackage[main=english]{babel}   % language (naustrian)
+\usepackage{csquotes}           % locale quotes (use \enquote{})
+% endregion
+
+% region — TITLE, METADATA and URL-Handling (hypersetup)
+\title{
+  Qualifying Spatial Relations using Jev: \\[0.5em]
+  \large{What role could artificial system-one intelligence play in GeoAI?}\\[-3.5em]
+}
+\date{}
+\author{}
+
+\hypersetup{
+    pdftitle={Qualifying Spatial Relations using Jev:},
+    pdfauthor={Jakob Roland},
+    pdflang={en},
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=cyan,
+    pdfborder={0 0 0}
+}
+\urlstyle{same} 
+% endregion
+
+% region — TYPESETTING (font, margins, formatting)
+\usepackage{parskip}
+\usepackage[hmargin=3cm, vmargin=1.5cm]{geometry}
+\linespread{1.15}
+\setlength{\headheight}{15pt}
+% \setlength{\parindent}{1em} % to regain paragraph indent
+
+% Font
+\usepackage{fontspec}
+\setmainfont{Noto Sans}
+\newfontfamily\symbolsfont{DejaVu Sans}
+\setmonofont{Source Code Pro}
+% endregion
+
+% region — OTHER FORM ELEMENTS (boxes, quotes, highlights)
+
+% region — Boxes or Quotes
+\usepackage[most]{tcolorbox}
+
+% Intended for quotes standing out from the continous text 'simpleQuote' convinces with a minimalist design featuring only a introductory vertical line on the left
+\newtcolorbox{simpleQuote}{
+  enhanced jigsaw,
+  colback=white,
+  colframe=black!70,           
+  arc=0mm,                 
+  boxrule=0pt,    
+  leftrule=3pt,                     
+  top=8pt, bottom=8pt,     
+  left=15pt, right=15pt,   
+  width=\textwidth,         
+  boxsep=0pt,
+}
+% endregion
+
+% endregion
+
+% region — REFERENCES (Zotero)
+% \usepackage[style=apa]{biblatex}
+\usepackage[style=numeric-comp]{biblatex}
+% \usepackage[style=ieee]{biblatex}
+\addbibresource{/home/jakob/ucloud/Zotero/MyLibrary_BibLatex.bib}
+% endregion
+
+% region — FLOATS (tables, images, code samples)
+\usepackage{float}        % float placement, eg. [H] for here
+
+% tables
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+% images
+\usepackage{graphicx}
+\graphicspath{ {./Figures/} }
+
+% code samples (listings)
+\usepackage{minted}
+\renewcommand{\listingscaption}{Code Sample}
+% endregion
+
+% region — CUSTOM COMMANDS
+% Emphasisized comments (Gemini chose the name)
+\newcommand{\meth}[1]{\highLight[yellow]{\emph{#1}}}
+
+% Context headings
+\newcommand{\ctxH}[1]{
+  {\hspace*{1cm}\textcolor[RGB]{180, 180, 180}{\textit{#1}}}
+}
+% endregion
+
+% Latex Cheatsheet
+\begin{comment}
+Relative Size Commands
+\tiny
+\scriptsize
+\footnotesize
+\small
+\normalsize
+\large
+\Large
+\LARGE
+\Huge
+\end{comment}

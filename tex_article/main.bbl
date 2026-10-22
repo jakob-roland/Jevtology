@@ -1,0 +1,240 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \strng{bibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorbibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authornamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter presents some of the fundamental assumptions and principles that could form the philosophical foundation of GeoAI and spatial data science. Instead of reviewing the well-established characteristics of spatial data (analysis), including interaction, neighborhoods, and autocorrelation, the chapter highlights themes such as sustainability, bias in training data, diversity in schema knowledge, and the (potential lack of) neutrality of GeoAI systems from a unifying ethical perspective. Reflecting on our profession's ethical implications will assist us in conducting potentially disruptive research more responsibly, identifying pitfalls in designing, training, and deploying GeoAI-based systems, and developing a shared understanding of the benefits but also potential dangers of artificial intelligence and machine learning research across academic fields, all while sharing our unique (geo)spatial perspective with others.}
+      \field{day}{27}
+      \field{eprintclass}{cs.CY}
+      \field{eprinttype}{arXiv}
+      \field{month}{3}
+      \field{pubstate}{prepublished}
+      \field{shorttitle}{Philosophical {{Foundations}} of {{GeoAI}}}
+      \field{title}{Philosophical {{Foundations}} of {{GeoAI}}: {{Exploring Sustainability}}, {{Diversity}}, and {{Bias}} in {{GeoAI}} and {{Spatial Data Science}}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2304.06508
+      \endverb
+      \verb{eprint}
+      \verb 2304.06508
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/GeoAI/Janowicz - 2023 - Philosophical Foundations of GeoAI Exploring Sustainability, Diversity, and Bias in GeoAI and Spati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computers and Society,Computer Science - Machine Learning}
+    \endentry
+    \entry{jiFoundationModelsGeospatial2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=d59f1323f26b22fedda5e6b77debfd1c}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+        {{hash=afb96875b0c2ab4e432db987dbb274fb}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a9195ca9a9147122790c9c4a716be02a}{%
+           family={Majić},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{fullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{fullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{bibnamehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{authorbibnamehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{authornamehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{authorfullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authorfullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{AI foundation models have demonstrated some capabilities for the understanding of geospatial semantics. However, applying such pre-trained models directly to geospatial datasets remains challenging due to their limited ability to represent and reason with geographical entities, specifically vector-based geometries and natural language descriptions of complex spatial relations. To address these issues, we investigate the extent to which a wellknown-text (WKT) representation of geometries and their spatial relations (e.g., topological predicates) are preserved during spatial reasoning when the geospatial vector data are passed to large language models (LLMs) including GPT-3.5-turbo, GPT-4, and DeepSeek-R1-14B. Our workflow employs three distinct approaches to complete the spatial reasoning tasks for comparison, i.e., geometry embedding-based, prompt engineering-based, and everyday language-based evaluation. Our experiment results demonstrate that both the embedding-based and prompt engineering-based approaches to geospatial question-answering tasks with GPT models can achieve an accuracy of over 0.6 on average for the identification of topological spatial relations between two geometries. Among the evaluated models, GPT-4 with few-shot prompting achieved the highest performance with over 0.66 accuracy on topological spatial relation inference. Additionally, GPT-based reasoner is capable of properly comprehending inverse topological spatial relations and including an LLM-generated geometry can enhance the effectiveness for geographic entity retrieval. GPT-4 also exhibits the ability to translate certain vernacular descriptions about places into formal topological relations, and adding the geometry-type or place-type context in prompts may improve inference accuracy, but it varies by instance. The performance of these spatial reasoning tasks unveils the strengths and limitations of the current LLMs in the processing and comprehension of geospatial vector data and offers valuable insights for the refinement of LLMs with geographical knowledge towards the development of geo-foundation models capable of geospatial reasoning.}
+      \field{day}{2}
+      \field{issn}{1365-8816, 1362-3087}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{International Journal of Geographical Information Science}
+      \field{shorttitle}{Foundation Models for Geospatial Reasoning}
+      \field{title}{Foundation Models for Geospatial Reasoning: Assessing the Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{39}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1866\bibrangedash 1903}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1080/13658816.2025.2511227
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/GeoAI/Ji et al. - 2025 - Foundation models for geospatial reasoning assessing the capabilities of large language models in u.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+    \endentry
+    \entry{shiGeographyAISustainability2025}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=40197a7e431db0c5c5e2de3d74664fba}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Meilin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d56fa12dae1c743f1c3b2055bbfb5824}{%
+           family={Verstegen},
+           familyi={V\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod}}}%
+        {{hash=20ecc27a58fb6b8459f0f18f2a32fcc2}{%
+           family={Currier},
+           familyi={C\bibinitperiod},
+           given={Kitty},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fb610bf16a6ea8dea2f6aab6f13a3d87}{%
+           family={Wiedemann},
+           familyi={W\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3670e7a39d1c8a8d1c797f624772df56}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Gengchen},
+           giveni={G\bibinitperiod}}}%
+        {{hash=140bbfdd2a7c7a4f8872cb96f93e0a32}{%
+           family={Majic},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=224db24307e936f9679b85876682debf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zilong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a409fcd3e2f9ae4fd6790ca28b9be27a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{fullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{fullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{bibnamehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{authorbibnamehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{authornamehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{authorfullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authorfullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have witnessed a boom in the development of multimodal large-scale generative AI models. These computationally intensive AI models, such as GPT-4, and their associated data centers have undergone increasing scrutiny in terms of their energy consumption and carbon emissions. As awareness of the energy costs and carbon footprints of AI models grows, attention has broadened to include other sustainability-related aspects such as their water consumption, transparency, and further environmental and social implications. In this work, we examine existing tools, frameworks, and evaluation metrics, complementing the ongoing discussions regarding AI’s environmental sustainability with a geographic perspective. This work, on the one hand, contributes to a geographically aware sustainability evaluation of current AI models. On the other hand, it examines the unique characteristics and challenges of GeoAI models, hoping to engage the GeoAI community in the sustainability discussion. Moving forward, we outline future directions on systematic reporting and geographically aware assessment. We then propose potential solutions, such as the adoption of Retrieval-Augmented Generation (RAG) models. Ultimately, we encourage future GeoAI research to acknowledge and address their environmental and social impact, thereby guiding GeoAI toward a more transparent, responsible, and sustainable future.}
+      \field{day}{4}
+      \field{issn}{1523-0406}
+      \field{journaltitle}{Cartography and Geographic Information Science}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Geography for {{AI}} Sustainability and Sustainability for {{GeoAI}}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{52}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{331\bibrangedash 349}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/15230406.2025.2479796
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/GeoAI/Shi et al. - 2025 - Geography for AI sustainability and sustainability for GeoAI.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

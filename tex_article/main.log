@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  23 OCT 2026 20:34
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  24 OCT 2026 11:32
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/jakob/Desktop/Jevtology/tex_article/main.tex
@@ -1521,14 +1521,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
 * v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=426.79135pt
+* \textwidth=455.24411pt
 * \textheight=759.6886pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-66.59087pt
 * \headheight=15.0pt
 * \headsep=25.0pt
@@ -1638,28 +1638,13 @@ Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
-
-Overfull \hbox (1.28857pt too wide) in paragraph at lines 13--14
-\TU/NotoSans(0)/m/n/12 this as-sump-tion this the-sis re-pro-duces the ex-per-i-ment on \TU/NotoSans(0)/m/it/12 spa-tial re-la-tion qual-
- []
-
-[1
+ [1
 
 
 \openout6 = main.ist
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.18185pt too wide) in paragraph at lines 35--35
-\TU/NotoSans(0)/m/it/12 log-i-cal And De-mo-graphic Stereo-types When Rec-om-mend-ing Friends\TU/NotoSans(0)/m/n/12 . []$https :
- []
-
-[2]
-Overfull \hbox (4.1568pt too wide) in paragraph at lines 35--35
-\TU/NotoSans(0)/m/n/12 geospa-tial rea-son-ing: As-sess-ing the ca-pa-bil-i-ties of large lan-guage mod-
- []
-
-
-Overfull \hbox (4.90977pt too wide) in paragraph at lines 35--35
-\TU/NotoSans(0)/m/it/12 ter-na-tional Jour-nal of Ge-o-graph-i-cal In-for-ma-tion Sci-ence\TU/NotoSans(0)/m/n/12 , \TU/NotoSans(0)/m/it/12 39\TU/NotoSans(0)/m/n/12 (9), 1866–1903.
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (9.65604pt too wide) in paragraph at lines 35--35
+\TU/NotoSans(0)/m/it/12 cated Rea-son-ing Un-der a Bud-get: Eval-u-at-ing System-1 Mod-els as Decision-makers\TU/NotoSans(0)/m/n/12 .
  []
 
 
@@ -1672,7 +1657,7 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 ) [3]
-runsystem(latexminted cleantemp  --timestamp 20261023203420 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted cleantemp  --timestamp 20261024113246 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
  (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
@@ -1686,21 +1671,21 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53322 strings out of 475703
+ 53348 strings out of 475703
  125086,2848258 words of node,token memory allocated
- 1686 words of node memory still in use:
-   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 217 attribute, 81 glue_spec, 73 attribute_list, 2 write, 48 pdf_literal, 5 pdf_action nodes
-   avail lists: 1:5,2:1096,3:380,4:11,5:273,6:36,7:7161,8:62,9:257,10:14,11:540,12:2
- 75008 multiletter control sequences out of 65536+600000
+ 1672 words of node memory still in use:
+   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 214 attribute, 81 glue_spec, 72 attribute_list, 2 write, 48 pdf_literal, 4 pdf_action nodes
+   avail lists: 1:6,2:1516,3:419,4:16,5:279,6:40,7:7390,8:62,9:262,10:15,11:542,12:2
+ 75031 multiletter control sequences out of 65536+600000
  67 fonts using 23180527 bytes
  103i,5n,116p,2791b,5186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'glo:llms'
 </usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
-Output written on main.pdf (3 pages, 87449 bytes).
+Output written on main.pdf (3 pages, 89446 bytes).
 
-PDF statistics: 139 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 1048576)
+PDF statistics: 148 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 1048576)
  261 words of extra memory for PDF output out of 10000 (max. 100000000)
 

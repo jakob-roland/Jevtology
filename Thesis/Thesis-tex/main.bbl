@@ -18,24 +18,202 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global/global}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{IntroducingSystemOne}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=836aa14758993778cff2c996370833a8}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Typesafe AI}%
+      }
+      \strng{namehash}{836aa14758993778cff2c996370833a8}
+      \strng{fullhash}{836aa14758993778cff2c996370833a8}
+      \strng{fullhashraw}{836aa14758993778cff2c996370833a8}
+      \strng{bibnamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authorbibnamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authornamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authorfullhash}{836aa14758993778cff2c996370833a8}
+      \strng{authorfullhashraw}{836aa14758993778cff2c996370833a8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{9}
+      \field{title}{Introducing {{System One Models}} \& {{Jev}}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://typesafe.ai/blog/introducing-system-one-models-and-jev
+      \endverb
+      \verb{url}
+      \verb https://typesafe.ai/blog/introducing-system-one-models-and-jev
+      \endverb
+    \endentry
+    \entry{chenNOTThinkThat2025}{article}{}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=ca144c6f079d338ee8ed6750373fa0f0}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xingyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cce64a287bbf0ec988f8babaf5d07629}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiahao},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cec46bc220d25bb3bccded35b571eab}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e073f7434d5bae8c14b3b69b9b30846}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhiwei},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b86300a2c3fe9ed1240551966126622}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Jianhui},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cb7d2d6e42d109fa2c5086d6c8f6a63}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d03f562621660b1e90886037b580ae7}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Linfeng},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d530ab583b216262b093d95f2497b7a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qiuzhi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a740b4529796f059ba46f65dd6fc4abb}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Mengfei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f25727354024f085075161aad1e48b6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhuosheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a8e37c2db183faff113a94a5dbc4914}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acc6a66983d2de8a42d7c66841d4b534}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Zhaopeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a39c702e6e70dbf85e96c1598e1efc17}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93509a9a7ccede33feb1e702b5a8bb9f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{7e41d69a0a1cb501b30ad9c89eca8333}
+      \strng{fullhash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{fullhashraw}{7e42a822258e9e47992d083f05a83e26}
+      \strng{bibnamehash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authorbibnamehash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authornamehash}{7e41d69a0a1cb501b30ad9c89eca8333}
+      \strng{authorfullhash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authorfullhashraw}{7e42a822258e9e47992d083f05a83e26}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The remarkable performance of long reasoning models can be attributed to their ability to emulate human-like long-time thinking during inference. These models employ extended chain-of-thought (CoT) processes, exploring multiple strategies to enhance problem-solving capabilities. However, a critical question remains: How to intelligently and efficiently scale computational resources during testing. This paper presents the first comprehensive study on the prevalent issue of overthinking in these models, where long reasoning models generate redundant solutions that contribute minimally to accuracy and diversity, thereby wasting computational resources on simple problems with minimal benefit. We introduce novel efficiency metrics from both outcome and process perspectives to evaluate the rational use of computational resources by long reasoning models. Using a self-training paradigm, we propose strategies to mitigate overthinking, simplifying reasoning processes without compromising accuracy. Experimental results show that our approach successfully reduces computational overhead while preserving model performance across a range of testsets with varying difficulty levels, such as GSM8K, MATH500, GPQA, and AIME. Our code is open-source and available at https://github.com/galaxyChen/overthinking.}
+      \field{day}{6}
+      \field{eventtitle}{International {{Conference}} on {{Machine Learning}}}
+      \field{issn}{2640-3498}
+      \field{journaltitle}{Proceedings of the 42nd {{International Conference}} on {{Machine Learning}}}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{Do {{NOT Think That Much}} for 2+3=?}
+      \field{title}{Do {{NOT Think That Much}} for 2+3=? {{On}} the {{Overthinking}} of {{Long Reasoning Models}}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9487\bibrangedash 9499}
+      \range{pages}{13}
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/LLMs/Chen et al. - 2025 - Do NOT Think That Much for 2+3= On the Overthinking of Long Reasoning Models.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v267/chen25bx.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v267/chen25bx.html
+      \endverb
+    \endentry
     \entry{deusserEvaluatingBenchmarkingSystem2026}{online}{}{}
       \name{author}{3}{}{%
-        {{hash=4b14c6e2ae075da9a2b9b164db527273}{%
+        {{un=0,uniquepart=base,hash=4b14c6e2ae075da9a2b9b164db527273}{%
            family={Deußer},
            familyi={D\bibinitperiod},
            given={Tobias},
-           giveni={T\bibinitperiod}}}%
-        {{hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
            family={Sparrenberg},
            familyi={S\bibinitperiod},
            given={Lorenz},
-           giveni={L\bibinitperiod}}}%
-        {{hash=63b7412f5a4ed5097d846705eb11b5b9}{%
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63b7412f5a4ed5097d846705eb11b5b9}{%
            family={Sifa},
            familyi={S\bibinitperiod},
            given={Rafet},
-           giveni={R\bibinitperiod}}}%
+           giveni={R\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{abfdfdaec98b7057a5f0921cdd366dd0}
       \strng{fullhash}{ed49c7b3642a15006279bbad29b4a709}
@@ -45,8 +223,11 @@
       \strng{authornamehash}{abfdfdaec98b7057a5f0921cdd366dd0}
       \strng{authorfullhash}{ed49c7b3642a15006279bbad29b4a709}
       \strng{authorfullhashraw}{ed49c7b3642a15006279bbad29b4a709}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines, such as routing queries, checking grounding, moderating content, or rating against a rubric. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets spanning classification, routing, natural language inference, reading comprehension, commonsense reasoning, moderation, legal clause analysis and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under USD 10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact next-token probabilities over the options. Jev reaches 95-99\% accuracy on IMDB, SST-2, HellaSwag and ARC and 86.7\% on Belebele across 122 languages. It beats Qwen on 27 of 37 datasets, with none of Qwen's nine leads outside the bootstrap intervals, and Gemma on all 37. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based quality judgments. Jev's choice probabilities are well calibrated and support selective prediction. Binary probabilities rank well but are poorly placed relative to a fixed 0.5 threshold; thresholds tuned on training data raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions (94\% vs. 91\%), whereas both open models, and all three on C-Eval, find them harder. Rotating the options leaves Jev's accuracy unchanged and withholding the question drops it to near chance, ruling out shallow memorization but not memorized question-answer pairs. We release the code, harness and all raw responses.}
@@ -54,7 +235,6 @@
       \field{eprintclass}{cs.CL}
       \field{eprinttype}{arXiv}
       \field{month}{9}
-      \field{pubstate}{prepublished}
       \field{title}{Evaluating and {{Benchmarking}} the {{System One Model Jev}}}
       \field{urlday}{26}
       \field{urlmonth}{10}
@@ -78,6 +258,1638 @@
       \verb http://arxiv.org/abs/2609.37647
       \endverb
       \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language}
+    \endentry
+    \entry{duanGeneralDecisionModels2026}{online}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=028661b348ea89b2afc70cf544a10cdb}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Feiyu},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e453927e646e355f3edb61c5518de1d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fabb321bc41bb6636a1899d564415e9}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e7511aeb41ac851633c2da3672a4be}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jialiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b034fed5686ccd55eaf8d13aa4730}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xinnong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c81452ed3af4c13137ba9426b072e98a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7d4dd2fe6ecb5720d0b869dc1b83ee}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7db1b7daf525818abea6508831822f3}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{fullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{fullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \strng{bibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorbibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authornamehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{authorfullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorfullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
+      \field{day}{12}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{General {{Decision Models}}}
+      \field{title}{General {{Decision Models}}: {{Benchmarking}} and {{Insights Beyond Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.03935
+      \endverb
+      \verb{eprint}
+      \verb 2610.03935
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Duan et al. - 2026 - General Decision Models Benchmarking and Insights Beyond Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
+    \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \strng{bibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorbibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authornamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter presents some of the fundamental assumptions and principles that could form the philosophical foundation of GeoAI and spatial data science. Instead of reviewing the well-established characteristics of spatial data (analysis), including interaction, neighborhoods, and autocorrelation, the chapter highlights themes such as sustainability, bias in training data, diversity in schema knowledge, and the (potential lack of) neutrality of GeoAI systems from a unifying ethical perspective. Reflecting on our profession's ethical implications will assist us in conducting potentially disruptive research more responsibly, identifying pitfalls in designing, training, and deploying GeoAI-based systems, and developing a shared understanding of the benefits but also potential dangers of artificial intelligence and machine learning research across academic fields, all while sharing our unique (geo)spatial perspective with others.}
+      \field{day}{27}
+      \field{eprintclass}{cs.CY}
+      \field{eprinttype}{arXiv}
+      \field{month}{3}
+      \field{shorttitle}{Philosophical {{Foundations}} of {{GeoAI}}}
+      \field{title}{Philosophical {{Foundations}} of {{GeoAI}}: {{Exploring Sustainability}}, {{Diversity}}, and {{Bias}} in {{GeoAI}} and {{Spatial Data Science}}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2304.06508
+      \endverb
+      \verb{eprint}
+      \verb 2304.06508
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Janowicz - 2023 - Philosophical Foundations of GeoAI Exploring Sustainability, Diversity, and Bias in GeoAI and Spati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computers and Society,Computer Science - Machine Learning}
+    \endentry
+    \entry{janowiczGeoAISpatiallyExplicit2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5543a22761cb32022e74a45d6e5c6f0a}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4132c8a47fb7504e4f36340d98c3d109}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yingjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c175fd217e71e95fd1e3ef6b1bcf2a2e}{%
+           family={Bhaduri},
+           familyi={B\bibinitperiod},
+           given={Budhendra},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{554eabe32aee0c682029595d36dd779c}
+      \strng{fullhash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{fullhashraw}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{bibnamehash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authorbibnamehash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authornamehash}{554eabe32aee0c682029595d36dd779c}
+      \strng{authorfullhash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authorfullhashraw}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{2}
+      \field{issn}{1365-8816}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{{{GeoAI}}}
+      \field{title}{{{GeoAI}}: Spatially Explicit Artificial Intelligence Techniques for Geographic Knowledge Discovery and Beyond}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{625\bibrangedash 636}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/13658816.2019.1684500
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Janowicz et al. - 2020 - GeoAI spatially explicit artificial intelligence techniques for geographic knowledge discovery and.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+    \endentry
+    \entry{jiFoundationModelsGeospatial2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d59f1323f26b22fedda5e6b77debfd1c}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afb96875b0c2ab4e432db987dbb274fb}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9195ca9a9147122790c9c4a716be02a}{%
+           family={Majić},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{fullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{fullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{bibnamehash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authorbibnamehash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authornamehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{authorfullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authorfullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{AI foundation models have demonstrated some capabilities for the understanding of geospatial semantics. However, applying such pre-trained models directly to geospatial datasets remains challenging due to their limited ability to represent and reason with geographical entities, specifically vector-based geometries and natural language descriptions of complex spatial relations. To address these issues, we investigate the extent to which a wellknown-text (WKT) representation of geometries and their spatial relations (e.g., topological predicates) are preserved during spatial reasoning when the geospatial vector data are passed to large language models (LLMs) including GPT-3.5-turbo, GPT-4, and DeepSeek-R1-14B. Our workflow employs three distinct approaches to complete the spatial reasoning tasks for comparison, i.e., geometry embedding-based, prompt engineering-based, and everyday language-based evaluation. Our experiment results demonstrate that both the embedding-based and prompt engineering-based approaches to geospatial question-answering tasks with GPT models can achieve an accuracy of over 0.6 on average for the identification of topological spatial relations between two geometries. Among the evaluated models, GPT-4 with few-shot prompting achieved the highest performance with over 0.66 accuracy on topological spatial relation inference. Additionally, GPT-based reasoner is capable of properly comprehending inverse topological spatial relations and including an LLM-generated geometry can enhance the effectiveness for geographic entity retrieval. GPT-4 also exhibits the ability to translate certain vernacular descriptions about places into formal topological relations, and adding the geometry-type or place-type context in prompts may improve inference accuracy, but it varies by instance. The performance of these spatial reasoning tasks unveils the strengths and limitations of the current LLMs in the processing and comprehension of geospatial vector data and offers valuable insights for the refinement of LLMs with geographical knowledge towards the development of geo-foundation models capable of geospatial reasoning.}
+      \field{day}{2}
+      \field{issn}{1365-8816, 1362-3087}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{International Journal of Geographical Information Science}
+      \field{shorttitle}{Foundation Models for Geospatial Reasoning}
+      \field{title}{Foundation Models for Geospatial Reasoning: Assessing the Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{39}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1866\bibrangedash 1903}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1080/13658816.2025.2511227
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Ji et al. - 2025 - Foundation models for geospatial reasoning assessing the capabilities of large language models in u.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+    \endentry
+    \entry{kahnemanThinkingFastSlow2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Farrar, Straus and Giroux}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st ed}
+      \field{isbn}{978-0-374-27563-1 978-0-374-53355-7 978-0-606-27564-4}
+      \field{pagetotal}{499}
+      \field{title}{Thinking, Fast and Slow}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \keyw{Decision making,Intuition,Reasoning,Thought and thinking}
+    \endentry
+    \entry{liGIScienceEraArtificial2025}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=42a0df1a3b77d8838b5444c135bdab4c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenlong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7228c6369bcf7adf5f0ee63a9a1a0fd0}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Huan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb0e4a77960cfd534d3270833682dd5d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenwen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81ca015750eccb999b9606e75160eab0}{%
+           family={Arundel},
+           familyi={A\bibinitperiod},
+           given={Samantha\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=956043a79c3312fd6eaddb5a7ea56108}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chaowei},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c175fd217e71e95fd1e3ef6b1bcf2a2e}{%
+           family={Bhaduri},
+           familyi={B\bibinitperiod},
+           given={Budhendra},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d21f4aba65af905faa32d48d5e1a43f9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shaowen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe66d47acb820cde96dfc9a273b4261b}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={A-Xing},
+           giveni={A\bibinithyphendelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49d44bf774f67093169f732d59fb1873}{%
+           family={Gahegan},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d22f37ff66a47a8359673a464c15a1c}{%
+           family={Shekhar},
+           familyi={S\bibinitperiod},
+           given={Shashi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=319e3b903724b0a78602cd862cf48fff}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Xinyue},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5543a22761cb32022e74a45d6e5c6f0a}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c5835fcdb0846fc9ff653df322f1826}{%
+           family={Cervone},
+           familyi={C\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=600089c4ad0e6f182cb58bf383a8f99b}{%
+           family={Hodgson},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{76197426068732bf17e8a79ef667520d}
+      \strng{fullhash}{118227b3ae630d26467055a1860020af}
+      \strng{fullhashraw}{118227b3ae630d26467055a1860020af}
+      \strng{bibnamehash}{118227b3ae630d26467055a1860020af}
+      \strng{authorbibnamehash}{118227b3ae630d26467055a1860020af}
+      \strng{authornamehash}{76197426068732bf17e8a79ef667520d}
+      \strng{authorfullhash}{118227b3ae630d26467055a1860020af}
+      \strng{authorfullhashraw}{118227b3ae630d26467055a1860020af}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The advent of generative AI exemplified by large language models (LLMs) opens new ways to represent and compute geographic information and transcends the process of geographic knowledge production, driving geographic information systems (GIS) towards autonomous GIS. Leveraging LLMs as the decision core, autonomous GIS can independently generate and execute geoprocessing workflows to perform spatial analysis. In this vision paper, we further elaborate on the concept of autonomous GIS and present a conceptual framework that defines its five autonomous goals, five levels of autonomy, five core functions, and three operational scales. We demonstrate how autonomous GIS could perform geospatial data retrieval, spatial analysis, and map making with four proof-of-concept GIS agents. We conclude by identifying critical challenges and future research directions, including fine-tuning and self-growing decision-cores, autonomous modelling, and examining the societal and practical implications of autonomous GIS. By establishing the groundwork for a paradigm shift in GIScience, this paper envisions a future where GIS moves beyond traditional workflows to autonomously reason, derive, innovate, and advance geospatial solutions to pressing global challenges. Meanwhile, we emphasize that as we design and deploy increasingly intelligent geospatial systems, we carry a responsibility to ensure they are developed in socially responsible ways, serve the public good, and support the continued value of human geographic insight in an AI-augmented future.}
+      \field{day}{2}
+      \field{issn}{1947-5683}
+      \field{journaltitle}{Annals of GIS}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{{{GIScience}} in the Era of {{Artificial Intelligence}}}
+      \field{title}{{{GIScience}} in the Era of {{Artificial Intelligence}}: A Research Agenda towards {{Autonomous GIS}}}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{31}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{501\bibrangedash 536}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1080/19475683.2025.2552161
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Li et al. - 2025 - GIScience in the era of Artificial Intelligence a research agenda towards Autonomous GIS.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/19475683.2025.2552161
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/19475683.2025.2552161
+      \endverb
+    \endentry
+    \entry{shiGeographyAISustainability2025}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=40197a7e431db0c5c5e2de3d74664fba}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Meilin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d56fa12dae1c743f1c3b2055bbfb5824}{%
+           family={Verstegen},
+           familyi={V\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20ecc27a58fb6b8459f0f18f2a32fcc2}{%
+           family={Currier},
+           familyi={C\bibinitperiod},
+           given={Kitty},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb610bf16a6ea8dea2f6aab6f13a3d87}{%
+           family={Wiedemann},
+           familyi={W\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3670e7a39d1c8a8d1c797f624772df56}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Gengchen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140bbfdd2a7c7a4f8872cb96f93e0a32}{%
+           family={Majic},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224db24307e936f9679b85876682debf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zilong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a409fcd3e2f9ae4fd6790ca28b9be27a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{fullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{fullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{bibnamehash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authorbibnamehash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authornamehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{authorfullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authorfullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have witnessed a boom in the development of multimodal large-scale generative AI models. These computationally intensive AI models, such as GPT-4, and their associated data centers have undergone increasing scrutiny in terms of their energy consumption and carbon emissions. As awareness of the energy costs and carbon footprints of AI models grows, attention has broadened to include other sustainability-related aspects such as their water consumption, transparency, and further environmental and social implications. In this work, we examine existing tools, frameworks, and evaluation metrics, complementing the ongoing discussions regarding AI’s environmental sustainability with a geographic perspective. This work, on the one hand, contributes to a geographically aware sustainability evaluation of current AI models. On the other hand, it examines the unique characteristics and challenges of GeoAI models, hoping to engage the GeoAI community in the sustainability discussion. Moving forward, we outline future directions on systematic reporting and geographically aware assessment. We then propose potential solutions, such as the adoption of Retrieval-Augmented Generation (RAG) models. Ultimately, we encourage future GeoAI research to acknowledge and address their environmental and social impact, thereby guiding GeoAI toward a more transparent, responsible, and sustainable future.}
+      \field{day}{4}
+      \field{issn}{1523-0406}
+      \field{journaltitle}{Cartography and Geographic Information Science}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Geography for {{AI}} Sustainability and Sustainability for {{GeoAI}}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{52}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{331\bibrangedash 349}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/15230406.2025.2479796
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Shi et al. - 2025 - Geography for AI sustainability and sustainability for GeoAI.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+    \endentry
+    \entry{wangTruncatedReasoningBudget2026}{online}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3b2178f95bdbb0616c6170aacbc5e770}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhongyin},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33c9a037d80076d2ad7e3e0c56f2818e}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Zhaoqian},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ac1aee35e5147b02b87c3b824dd15d3}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={Junting},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0f80a57226682462bb55bf6390e80e5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Haozheng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3c38717dc1be8193594d3b0948ca51a}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c347e0eecd498d36471f2eab3f6eefae}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Haolun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6007aa62f57d83caa3ce33a02c4e8947}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lingyao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aded1cf83ba640e1f6fafa92920ba7e8}
+      \strng{fullhash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{fullhashraw}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{bibnamehash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authorbibnamehash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authornamehash}{aded1cf83ba640e1f6fafa92920ba7e8}
+      \strng{authorfullhash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authorfullhashraw}{e6573c96fc348603e071c29a797fe8e1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Large language models (LLMs) often generate more reasoning tokens than needed. Limiting the reasoning budget reduces cost, but forcing an answer from an incomplete trace can hurt accuracy. System-1 decision models select among candidate options without producing a reasoning response. We evaluate Jev as a decision reader of truncated reasoning across seven LLM reasoners and five multiple-choice benchmarks (35 pairs). Jev achieves higher mean accuracy than forced answering at tested budgets from 500 to 16,000 tokens, including the estimated costs of reasoning and answering. At a 1,500-token budget, it improves accuracy by 4.1 pp overall and 8.6 pp on truncated questions, with significant gains in 17 pairs under Holm-corrected bootstrap tests. Offline replay estimates 34.5\% of the full-run cost, with a 1.13 pp accuracy loss. A policy selected on training folds saves 71.3\% of the estimated full-run cost on held-out folds, with a 0.58 pp accuracy loss. We also find that Jev shows strong question-only accuracy, exceeding 500-token forced answering on average (68.0\% vs. 65.5\%), although this advantage varies by benchmark. These findings suggest that System-1 decision models can complement LLM reasoning and reduce the need for costly reasoning completion.}
+      \field{day}{19}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{Truncated {{Reasoning Under}} a {{Budget}}}
+      \field{title}{Truncated {{Reasoning Under}} a {{Budget}}: {{Evaluating System-1 Models}} as {{Decision}}-Makers}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.25768
+      \endverb
+      \verb{eprint}
+      \verb 2610.25768
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Wang et al. - 2026 - Truncated Reasoning Under a Budget Evaluating System-1 Models as Decision-makers.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.25768
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.25768
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{IntroducingSystemOne}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=836aa14758993778cff2c996370833a8}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Typesafe AI}%
+      }
+      \strng{namehash}{836aa14758993778cff2c996370833a8}
+      \strng{fullhash}{836aa14758993778cff2c996370833a8}
+      \strng{fullhashraw}{836aa14758993778cff2c996370833a8}
+      \strng{bibnamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authorbibnamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authornamehash}{836aa14758993778cff2c996370833a8}
+      \strng{authorfullhash}{836aa14758993778cff2c996370833a8}
+      \strng{authorfullhashraw}{836aa14758993778cff2c996370833a8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{9}
+      \field{title}{Introducing {{System One Models}} \& {{Jev}}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://typesafe.ai/blog/introducing-system-one-models-and-jev
+      \endverb
+      \verb{url}
+      \verb https://typesafe.ai/blog/introducing-system-one-models-and-jev
+      \endverb
+    \endentry
+    \entry{chenNOTThinkThat2025}{article}{}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=ca144c6f079d338ee8ed6750373fa0f0}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xingyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cce64a287bbf0ec988f8babaf5d07629}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiahao},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cec46bc220d25bb3bccded35b571eab}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e073f7434d5bae8c14b3b69b9b30846}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhiwei},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b86300a2c3fe9ed1240551966126622}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Jianhui},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cb7d2d6e42d109fa2c5086d6c8f6a63}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d03f562621660b1e90886037b580ae7}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Linfeng},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d530ab583b216262b093d95f2497b7a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qiuzhi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a740b4529796f059ba46f65dd6fc4abb}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Mengfei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f25727354024f085075161aad1e48b6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhuosheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a8e37c2db183faff113a94a5dbc4914}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acc6a66983d2de8a42d7c66841d4b534}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Zhaopeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a39c702e6e70dbf85e96c1598e1efc17}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Haitao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93509a9a7ccede33feb1e702b5a8bb9f}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PMLR}%
+      }
+      \strng{namehash}{7e41d69a0a1cb501b30ad9c89eca8333}
+      \strng{fullhash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{fullhashraw}{7e42a822258e9e47992d083f05a83e26}
+      \strng{bibnamehash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authorbibnamehash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authornamehash}{7e41d69a0a1cb501b30ad9c89eca8333}
+      \strng{authorfullhash}{7e42a822258e9e47992d083f05a83e26}
+      \strng{authorfullhashraw}{7e42a822258e9e47992d083f05a83e26}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The remarkable performance of long reasoning models can be attributed to their ability to emulate human-like long-time thinking during inference. These models employ extended chain-of-thought (CoT) processes, exploring multiple strategies to enhance problem-solving capabilities. However, a critical question remains: How to intelligently and efficiently scale computational resources during testing. This paper presents the first comprehensive study on the prevalent issue of overthinking in these models, where long reasoning models generate redundant solutions that contribute minimally to accuracy and diversity, thereby wasting computational resources on simple problems with minimal benefit. We introduce novel efficiency metrics from both outcome and process perspectives to evaluate the rational use of computational resources by long reasoning models. Using a self-training paradigm, we propose strategies to mitigate overthinking, simplifying reasoning processes without compromising accuracy. Experimental results show that our approach successfully reduces computational overhead while preserving model performance across a range of testsets with varying difficulty levels, such as GSM8K, MATH500, GPQA, and AIME. Our code is open-source and available at https://github.com/galaxyChen/overthinking.}
+      \field{day}{6}
+      \field{eventtitle}{International {{Conference}} on {{Machine Learning}}}
+      \field{issn}{2640-3498}
+      \field{journaltitle}{Proceedings of the 42nd {{International Conference}} on {{Machine Learning}}}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{Do {{NOT Think That Much}} for 2+3=?}
+      \field{title}{Do {{NOT Think That Much}} for 2+3=? {{On}} the {{Overthinking}} of {{Long Reasoning Models}}}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9487\bibrangedash 9499}
+      \range{pages}{13}
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/LLMs/Chen et al. - 2025 - Do NOT Think That Much for 2+3= On the Overthinking of Long Reasoning Models.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.mlr.press/v267/chen25bx.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.mlr.press/v267/chen25bx.html
+      \endverb
+    \endentry
+    \entry{deusserEvaluatingBenchmarkingSystem2026}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b14c6e2ae075da9a2b9b164db527273}{%
+           family={Deußer},
+           familyi={D\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
+           family={Sparrenberg},
+           familyi={S\bibinitperiod},
+           given={Lorenz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63b7412f5a4ed5097d846705eb11b5b9}{%
+           family={Sifa},
+           familyi={S\bibinitperiod},
+           given={Rafet},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{fullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{fullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{bibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorbibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authornamehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{authorfullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorfullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines, such as routing queries, checking grounding, moderating content, or rating against a rubric. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets spanning classification, routing, natural language inference, reading comprehension, commonsense reasoning, moderation, legal clause analysis and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under USD 10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact next-token probabilities over the options. Jev reaches 95-99\% accuracy on IMDB, SST-2, HellaSwag and ARC and 86.7\% on Belebele across 122 languages. It beats Qwen on 27 of 37 datasets, with none of Qwen's nine leads outside the bootstrap intervals, and Gemma on all 37. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based quality judgments. Jev's choice probabilities are well calibrated and support selective prediction. Binary probabilities rank well but are poorly placed relative to a fixed 0.5 threshold; thresholds tuned on training data raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions (94\% vs. 91\%), whereas both open models, and all three on C-Eval, find them harder. Rotating the options leaves Jev's accuracy unchanged and withholding the question drops it to near chance, ruling out shallow memorization but not memorized question-answer pairs. We release the code, harness and all raw responses.}
+      \field{day}{29}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{9}
+      \field{title}{Evaluating and {{Benchmarking}} the {{System One Model Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2609.37647
+      \endverb
+      \verb{eprint}
+      \verb 2609.37647
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Deußer et al. - 2026 - Evaluating and Benchmarking the System One Model Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language}
+    \endentry
+    \entry{duanGeneralDecisionModels2026}{online}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=028661b348ea89b2afc70cf544a10cdb}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Feiyu},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e453927e646e355f3edb61c5518de1d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fabb321bc41bb6636a1899d564415e9}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e7511aeb41ac851633c2da3672a4be}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jialiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b034fed5686ccd55eaf8d13aa4730}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xinnong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c81452ed3af4c13137ba9426b072e98a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7d4dd2fe6ecb5720d0b869dc1b83ee}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7db1b7daf525818abea6508831822f3}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{fullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{fullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \strng{bibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorbibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authornamehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{authorfullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorfullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
+      \field{day}{12}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{General {{Decision Models}}}
+      \field{title}{General {{Decision Models}}: {{Benchmarking}} and {{Insights Beyond Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.03935
+      \endverb
+      \verb{eprint}
+      \verb 2610.03935
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Duan et al. - 2026 - General Decision Models Benchmarking and Insights Beyond Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
+    \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{fullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \strng{bibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorbibnamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authornamehash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhash}{f8032db780b653246bf029dcbffb6859}
+      \strng{authorfullhashraw}{f8032db780b653246bf029dcbffb6859}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter presents some of the fundamental assumptions and principles that could form the philosophical foundation of GeoAI and spatial data science. Instead of reviewing the well-established characteristics of spatial data (analysis), including interaction, neighborhoods, and autocorrelation, the chapter highlights themes such as sustainability, bias in training data, diversity in schema knowledge, and the (potential lack of) neutrality of GeoAI systems from a unifying ethical perspective. Reflecting on our profession's ethical implications will assist us in conducting potentially disruptive research more responsibly, identifying pitfalls in designing, training, and deploying GeoAI-based systems, and developing a shared understanding of the benefits but also potential dangers of artificial intelligence and machine learning research across academic fields, all while sharing our unique (geo)spatial perspective with others.}
+      \field{day}{27}
+      \field{eprintclass}{cs.CY}
+      \field{eprinttype}{arXiv}
+      \field{month}{3}
+      \field{shorttitle}{Philosophical {{Foundations}} of {{GeoAI}}}
+      \field{title}{Philosophical {{Foundations}} of {{GeoAI}}: {{Exploring Sustainability}}, {{Diversity}}, and {{Bias}} in {{GeoAI}} and {{Spatial Data Science}}}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2304.06508
+      \endverb
+      \verb{eprint}
+      \verb 2304.06508
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Janowicz - 2023 - Philosophical Foundations of GeoAI Exploring Sustainability, Diversity, and Bias in GeoAI and Spati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2304.06508
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computers and Society,Computer Science - Machine Learning}
+    \endentry
+    \entry{janowiczGeoAISpatiallyExplicit2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5543a22761cb32022e74a45d6e5c6f0a}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4132c8a47fb7504e4f36340d98c3d109}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yingjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c175fd217e71e95fd1e3ef6b1bcf2a2e}{%
+           family={Bhaduri},
+           familyi={B\bibinitperiod},
+           given={Budhendra},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{554eabe32aee0c682029595d36dd779c}
+      \strng{fullhash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{fullhashraw}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{bibnamehash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authorbibnamehash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authornamehash}{554eabe32aee0c682029595d36dd779c}
+      \strng{authorfullhash}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \strng{authorfullhashraw}{2b9cd801cfeceb2f61ef257dc1a8327e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{2}
+      \field{issn}{1365-8816}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{{{GeoAI}}}
+      \field{title}{{{GeoAI}}: Spatially Explicit Artificial Intelligence Techniques for Geographic Knowledge Discovery and Beyond}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{625\bibrangedash 636}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/13658816.2019.1684500
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Janowicz et al. - 2020 - GeoAI spatially explicit artificial intelligence techniques for geographic knowledge discovery and.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+    \endentry
+    \entry{jiFoundationModelsGeospatial2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d59f1323f26b22fedda5e6b77debfd1c}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afb96875b0c2ab4e432db987dbb274fb}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9195ca9a9147122790c9c4a716be02a}{%
+           family={Majić},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{fullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{fullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{bibnamehash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authorbibnamehash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authornamehash}{11d5ce094817226e59b19c1de572d977}
+      \strng{authorfullhash}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \strng{authorfullhashraw}{2168bb66408cb2ab5a64e8ded8c34a7a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{AI foundation models have demonstrated some capabilities for the understanding of geospatial semantics. However, applying such pre-trained models directly to geospatial datasets remains challenging due to their limited ability to represent and reason with geographical entities, specifically vector-based geometries and natural language descriptions of complex spatial relations. To address these issues, we investigate the extent to which a wellknown-text (WKT) representation of geometries and their spatial relations (e.g., topological predicates) are preserved during spatial reasoning when the geospatial vector data are passed to large language models (LLMs) including GPT-3.5-turbo, GPT-4, and DeepSeek-R1-14B. Our workflow employs three distinct approaches to complete the spatial reasoning tasks for comparison, i.e., geometry embedding-based, prompt engineering-based, and everyday language-based evaluation. Our experiment results demonstrate that both the embedding-based and prompt engineering-based approaches to geospatial question-answering tasks with GPT models can achieve an accuracy of over 0.6 on average for the identification of topological spatial relations between two geometries. Among the evaluated models, GPT-4 with few-shot prompting achieved the highest performance with over 0.66 accuracy on topological spatial relation inference. Additionally, GPT-based reasoner is capable of properly comprehending inverse topological spatial relations and including an LLM-generated geometry can enhance the effectiveness for geographic entity retrieval. GPT-4 also exhibits the ability to translate certain vernacular descriptions about places into formal topological relations, and adding the geometry-type or place-type context in prompts may improve inference accuracy, but it varies by instance. The performance of these spatial reasoning tasks unveils the strengths and limitations of the current LLMs in the processing and comprehension of geospatial vector data and offers valuable insights for the refinement of LLMs with geographical knowledge towards the development of geo-foundation models capable of geospatial reasoning.}
+      \field{day}{2}
+      \field{issn}{1365-8816, 1362-3087}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{9}
+      \field{shortjournal}{International Journal of Geographical Information Science}
+      \field{shorttitle}{Foundation Models for Geospatial Reasoning}
+      \field{title}{Foundation Models for Geospatial Reasoning: Assessing the Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{39}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1866\bibrangedash 1903}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1080/13658816.2025.2511227
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Ji et al. - 2025 - Foundation models for geospatial reasoning assessing the capabilities of large language models in u.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
+      \endverb
+    \endentry
+    \entry{kahnemanThinkingFastSlow2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Farrar, Straus and Giroux}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st ed}
+      \field{isbn}{978-0-374-27563-1 978-0-374-53355-7 978-0-606-27564-4}
+      \field{pagetotal}{499}
+      \field{title}{Thinking, Fast and Slow}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \keyw{Decision making,Intuition,Reasoning,Thought and thinking}
+    \endentry
+    \entry{liGIScienceEraArtificial2025}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=42a0df1a3b77d8838b5444c135bdab4c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenlong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7228c6369bcf7adf5f0ee63a9a1a0fd0}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Huan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80edc4011fde2f4defe68ef7e0b3c0cf}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb0e4a77960cfd534d3270833682dd5d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenwen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81ca015750eccb999b9606e75160eab0}{%
+           family={Arundel},
+           familyi={A\bibinitperiod},
+           given={Samantha\bibnamedelima T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=956043a79c3312fd6eaddb5a7ea56108}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chaowei},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c175fd217e71e95fd1e3ef6b1bcf2a2e}{%
+           family={Bhaduri},
+           familyi={B\bibinitperiod},
+           given={Budhendra},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d21f4aba65af905faa32d48d5e1a43f9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shaowen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe66d47acb820cde96dfc9a273b4261b}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={A-Xing},
+           giveni={A\bibinithyphendelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49d44bf774f67093169f732d59fb1873}{%
+           family={Gahegan},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d22f37ff66a47a8359673a464c15a1c}{%
+           family={Shekhar},
+           familyi={S\bibinitperiod},
+           given={Shashi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=319e3b903724b0a78602cd862cf48fff}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Xinyue},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5543a22761cb32022e74a45d6e5c6f0a}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c5835fcdb0846fc9ff653df322f1826}{%
+           family={Cervone},
+           familyi={C\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=600089c4ad0e6f182cb58bf383a8f99b}{%
+           family={Hodgson},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{76197426068732bf17e8a79ef667520d}
+      \strng{fullhash}{118227b3ae630d26467055a1860020af}
+      \strng{fullhashraw}{118227b3ae630d26467055a1860020af}
+      \strng{bibnamehash}{118227b3ae630d26467055a1860020af}
+      \strng{authorbibnamehash}{118227b3ae630d26467055a1860020af}
+      \strng{authornamehash}{76197426068732bf17e8a79ef667520d}
+      \strng{authorfullhash}{118227b3ae630d26467055a1860020af}
+      \strng{authorfullhashraw}{118227b3ae630d26467055a1860020af}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The advent of generative AI exemplified by large language models (LLMs) opens new ways to represent and compute geographic information and transcends the process of geographic knowledge production, driving geographic information systems (GIS) towards autonomous GIS. Leveraging LLMs as the decision core, autonomous GIS can independently generate and execute geoprocessing workflows to perform spatial analysis. In this vision paper, we further elaborate on the concept of autonomous GIS and present a conceptual framework that defines its five autonomous goals, five levels of autonomy, five core functions, and three operational scales. We demonstrate how autonomous GIS could perform geospatial data retrieval, spatial analysis, and map making with four proof-of-concept GIS agents. We conclude by identifying critical challenges and future research directions, including fine-tuning and self-growing decision-cores, autonomous modelling, and examining the societal and practical implications of autonomous GIS. By establishing the groundwork for a paradigm shift in GIScience, this paper envisions a future where GIS moves beyond traditional workflows to autonomously reason, derive, innovate, and advance geospatial solutions to pressing global challenges. Meanwhile, we emphasize that as we design and deploy increasingly intelligent geospatial systems, we carry a responsibility to ensure they are developed in socially responsible ways, serve the public good, and support the continued value of human geographic insight in an AI-augmented future.}
+      \field{day}{2}
+      \field{issn}{1947-5683}
+      \field{journaltitle}{Annals of GIS}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{{{GIScience}} in the Era of {{Artificial Intelligence}}}
+      \field{title}{{{GIScience}} in the Era of {{Artificial Intelligence}}: A Research Agenda towards {{Autonomous GIS}}}
+      \field{urlday}{22}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{volume}{31}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{501\bibrangedash 536}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1080/19475683.2025.2552161
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Li et al. - 2025 - GIScience in the era of Artificial Intelligence a research agenda towards Autonomous GIS.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/19475683.2025.2552161
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/19475683.2025.2552161
+      \endverb
+    \endentry
+    \entry{shiGeographyAISustainability2025}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=40197a7e431db0c5c5e2de3d74664fba}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Meilin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
+           family={Janowicz},
+           familyi={J\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d56fa12dae1c743f1c3b2055bbfb5824}{%
+           family={Verstegen},
+           familyi={V\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20ecc27a58fb6b8459f0f18f2a32fcc2}{%
+           family={Currier},
+           familyi={C\bibinitperiod},
+           given={Kitty},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb610bf16a6ea8dea2f6aab6f13a3d87}{%
+           family={Wiedemann},
+           familyi={W\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3670e7a39d1c8a8d1c797f624772df56}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Gengchen},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140bbfdd2a7c7a4f8872cb96f93e0a32}{%
+           family={Majic},
+           familyi={M\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=224db24307e936f9679b85876682debf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zilong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a409fcd3e2f9ae4fd6790ca28b9be27a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{fullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{fullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{bibnamehash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authorbibnamehash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authornamehash}{6b98aca641e400f47d06d29c465ebe1c}
+      \strng{authorfullhash}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \strng{authorfullhashraw}{b7a8aff94b0abb0d2b98da0a0a9a5381}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have witnessed a boom in the development of multimodal large-scale generative AI models. These computationally intensive AI models, such as GPT-4, and their associated data centers have undergone increasing scrutiny in terms of their energy consumption and carbon emissions. As awareness of the energy costs and carbon footprints of AI models grows, attention has broadened to include other sustainability-related aspects such as their water consumption, transparency, and further environmental and social implications. In this work, we examine existing tools, frameworks, and evaluation metrics, complementing the ongoing discussions regarding AI’s environmental sustainability with a geographic perspective. This work, on the one hand, contributes to a geographically aware sustainability evaluation of current AI models. On the other hand, it examines the unique characteristics and challenges of GeoAI models, hoping to engage the GeoAI community in the sustainability discussion. Moving forward, we outline future directions on systematic reporting and geographically aware assessment. We then propose potential solutions, such as the adoption of Retrieval-Augmented Generation (RAG) models. Ultimately, we encourage future GeoAI research to acknowledge and address their environmental and social impact, thereby guiding GeoAI toward a more transparent, responsible, and sustainable future.}
+      \field{day}{4}
+      \field{issn}{1523-0406}
+      \field{journaltitle}{Cartography and Geographic Information Science}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Geography for {{AI}} Sustainability and Sustainability for {{GeoAI}}}
+      \field{urlday}{31}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{52}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{331\bibrangedash 349}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/15230406.2025.2479796
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/GeoAI/Shi et al. - 2025 - Geography for AI sustainability and sustainability for GeoAI.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/15230406.2025.2479796
+      \endverb
+    \endentry
+    \entry{wangTruncatedReasoningBudget2026}{online}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3b2178f95bdbb0616c6170aacbc5e770}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhongyin},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33c9a037d80076d2ad7e3e0c56f2818e}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Zhaoqian},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ac1aee35e5147b02b87c3b824dd15d3}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={Junting},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0f80a57226682462bb55bf6390e80e5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Haozheng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3c38717dc1be8193594d3b0948ca51a}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c347e0eecd498d36471f2eab3f6eefae}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Haolun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6007aa62f57d83caa3ce33a02c4e8947}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lingyao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aded1cf83ba640e1f6fafa92920ba7e8}
+      \strng{fullhash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{fullhashraw}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{bibnamehash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authorbibnamehash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authornamehash}{aded1cf83ba640e1f6fafa92920ba7e8}
+      \strng{authorfullhash}{e6573c96fc348603e071c29a797fe8e1}
+      \strng{authorfullhashraw}{e6573c96fc348603e071c29a797fe8e1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Large language models (LLMs) often generate more reasoning tokens than needed. Limiting the reasoning budget reduces cost, but forcing an answer from an incomplete trace can hurt accuracy. System-1 decision models select among candidate options without producing a reasoning response. We evaluate Jev as a decision reader of truncated reasoning across seven LLM reasoners and five multiple-choice benchmarks (35 pairs). Jev achieves higher mean accuracy than forced answering at tested budgets from 500 to 16,000 tokens, including the estimated costs of reasoning and answering. At a 1,500-token budget, it improves accuracy by 4.1 pp overall and 8.6 pp on truncated questions, with significant gains in 17 pairs under Holm-corrected bootstrap tests. Offline replay estimates 34.5\% of the full-run cost, with a 1.13 pp accuracy loss. A policy selected on training folds saves 71.3\% of the estimated full-run cost on held-out folds, with a 0.58 pp accuracy loss. We also find that Jev shows strong question-only accuracy, exceeding 500-token forced answering on average (68.0\% vs. 65.5\%), although this advantage varies by benchmark. These findings suggest that System-1 decision models can complement LLM reasoning and reduce the need for costly reasoning completion.}
+      \field{day}{19}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{Truncated {{Reasoning Under}} a {{Budget}}}
+      \field{title}{Truncated {{Reasoning Under}} a {{Budget}}: {{Evaluating System-1 Models}} as {{Decision}}-Makers}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.25768
+      \endverb
+      \verb{eprint}
+      \verb 2610.25768
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Wang et al. - 2026 - Truncated Reasoning Under a Budget Evaluating System-1 Models as Decision-makers.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.25768
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.25768
+      \endverb
+      \keyw{Computer Science - Computation and Language}
     \endentry
   \enddatalist
 \endrefsection

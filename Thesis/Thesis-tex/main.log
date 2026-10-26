@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 13:25
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 16:00
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/jakob/Desktop/Jevtology/Thesis/Thesis-tex/main.tex
@@ -1108,7 +1108,10 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: ... file 'apa.dbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
+)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count459
@@ -1147,38 +1150,48 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedshortauthor=\count492
 \c@shorteditor=\count493
 \c@savedshorteditor=\count494
-\c@labelname=\count495
-\c@savedlabelname=\count496
-\c@institution=\count497
-\c@savedinstitution=\count498
-\c@lista=\count499
-\c@savedlista=\count500
-\c@listb=\count501
-\c@savedlistb=\count502
-\c@listc=\count503
-\c@savedlistc=\count504
-\c@listd=\count505
-\c@savedlistd=\count506
-\c@liste=\count507
-\c@savedliste=\count508
-\c@listf=\count509
-\c@savedlistf=\count510
-\c@location=\count511
-\c@savedlocation=\count512
-\c@organization=\count513
-\c@savedorganization=\count514
-\c@origlocation=\count515
-\c@savedoriglocation=\count516
-\c@origpublisher=\count517
-\c@savedorigpublisher=\count518
-\c@publisher=\count519
-\c@savedpublisher=\count520
-\c@language=\count521
-\c@savedlanguage=\count522
-\c@origlanguage=\count523
-\c@savedoriglanguage=\count524
-\c@pageref=\count525
-\c@savedpageref=\count526
+\c@narrator=\count495
+\c@savednarrator=\count496
+\c@execproducer=\count497
+\c@savedexecproducer=\count498
+\c@execdirector=\count499
+\c@savedexecdirector=\count500
+\c@with=\count501
+\c@savedwith=\count502
+\c@labelname=\count503
+\c@savedlabelname=\count504
+\c@institution=\count505
+\c@savedinstitution=\count506
+\c@lista=\count507
+\c@savedlista=\count508
+\c@listb=\count509
+\c@savedlistb=\count510
+\c@listc=\count511
+\c@savedlistc=\count512
+\c@listd=\count513
+\c@savedlistd=\count514
+\c@liste=\count515
+\c@savedliste=\count516
+\c@listf=\count517
+\c@savedlistf=\count518
+\c@location=\count519
+\c@savedlocation=\count520
+\c@organization=\count521
+\c@savedorganization=\count522
+\c@origlocation=\count523
+\c@savedoriglocation=\count524
+\c@origpublisher=\count525
+\c@savedorigpublisher=\count526
+\c@publisher=\count527
+\c@savedpublisher=\count528
+\c@language=\count529
+\c@savedlanguage=\count530
+\c@origlanguage=\count531
+\c@savedoriglanguage=\count532
+\c@citation=\count533
+\c@savedcitation=\count534
+\c@pageref=\count535
+\c@savedpageref=\count536
 \shorthandwidth=\skip74
 \shortjournalwidth=\skip75
 \shortserieswidth=\skip76
@@ -1205,58 +1218,58 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count527
-\c@textcitetotal=\count528
-\c@textcitemaxnames=\count529
-\c@biburlbigbreakpenalty=\count530
-\c@biburlbreakpenalty=\count531
-\c@biburlnumpenalty=\count532
-\c@biburlucpenalty=\count533
-\c@biburllcpenalty=\count534
+\c@textcitecount=\count537
+\c@textcitetotal=\count538
+\c@textcitemaxnames=\count539
+\c@biburlbigbreakpenalty=\count540
+\c@biburlbreakpenalty=\count541
+\c@biburlnumpenalty=\count542
+\c@biburlucpenalty=\count543
+\c@biburllcpenalty=\count544
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count535
+\c@smartand=\count545
 )
-Package biblatex Info: Trying to load bibliography style 'ieee'...
-Package biblatex Info: ... file 'ieee.bbx' found.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
-Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count536
-\c@bbx:relatedtotal=\count537
-))))
-Package biblatex Info: Trying to load citation style 'ieee'...
-Package biblatex Info: ... file 'ieee.cbx' found.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
-Package biblatex Info: Trying to load citation style 'numeric-verb'...
-Package biblatex Info: ... file 'numeric-verb.cbx' found.
- (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
-File: numeric-verb.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+\c@bbx:relatedcount=\count546
+\c@bbx:relatedtotal=\count547
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
 Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-))
+Lua function BLTXAPAifInParensTF = 37)
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.cfg
@@ -1278,7 +1291,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@old@col=\dimen326
 \TX@target=\dimen327
 \TX@delta=\dimen328
-\TX@cols=\count538
+\TX@cols=\count548
 \TX@ftn=\toks54
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
@@ -1292,12 +1305,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen336
 \cmidrulekern=\dimen337
 \defaultaddspace=\dimen338
-\@cmidla=\count539
-\@cmidlb=\count540
+\@cmidla=\count549
+\@cmidlb=\count550
 \@aboverulesep=\dimen339
 \@belowrulesep=\dimen340
-\@thisruleclass=\count541
-\@lastruleclass=\count542
+\@thisruleclass=\count551
+\@lastruleclass=\count552
 \@thisrulewidth=\dimen341
 ) (./acronyms.tex (/usr/local/texlive/2026/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2026/04/21 v5.1 (NLCT)
@@ -1308,7 +1321,7 @@ Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 \XKV@tempa@toks=\toks56
 \XKV@tempb@toks=\toks57
 )
-\XKV@depth=\count543
+\XKV@depth=\count553
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/local/texlive/2026/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
@@ -1327,49 +1340,49 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 File: glossaries-english.ldf 2014/11/23 v1.0
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/datatool/datatool-base.sty
 Package: datatool-base 2025/12/04 v3.4.3 (NLCT)
-\l__datatool_tmpa_int=\count544
-\l__datatool_tmpb_int=\count545
-\l__datatool_tmpc_int=\count546
-\l__datatool_tmpd_int=\count547
-\l__datatool_count_int=\count548
-\l__datatool_tmp_datatype_int=\count549
+\l__datatool_tmpa_int=\count554
+\l__datatool_tmpb_int=\count555
+\l__datatool_tmpc_int=\count556
+\l__datatool_tmpd_int=\count557
+\l__datatool_count_int=\count558
+\l__datatool_tmp_datatype_int=\count559
 \l__datatool_tmpa_dim=\dimen342
 \l__datatool_tmpb_dim=\dimen343
  (/usr/local/texlive/2026/texmf-dist/tex/latex/datatool/datatool-lua.def
 File: datatool-lua.def 2025/12/04 v3.4.3 (NLCT)
 )
 \@dtl@toks=\toks60
-\@dtl@tmpcount=\count550
+\@dtl@tmpcount=\count560
 \dtl@tmplength=\skip88
 \l__datatool_measure_box=\box141
-\dtl@sortresult=\count551
+\dtl@sortresult=\count561
  (/usr/local/texlive/2026/texmf-dist/tex/latex/datatool/datatool-utf8.ldf
 File: datatool-utf8.ldf 2025/12/04 v3.4.3 (NLCT)
 )
-\@dtl@datatype=\count552
-\c_datatool_unknown_int=\count553
-\l__datatool_year_int=\count554
-\l__datatool_month_int=\count555
-\l__datatool_day_int=\count556
-\l__datatool_hour_int=\count557
-\l__datatool_minute_int=\count558
-\l__datatool_second_int=\count559
-\l__datatool_tzhour_int=\count560
-\l__datatool_tzminute_int=\count561
-\l__datatool_julian_int=\count562
-\l__datatool_local_julian_int=\count563
-\l__datatool_prefix_int=\count564
-\l__datatool_suffix_int=\count565
-\@dtl@foreach@level=\count566
+\@dtl@datatype=\count562
+\c_datatool_unknown_int=\count563
+\l__datatool_year_int=\count564
+\l__datatool_month_int=\count565
+\l__datatool_day_int=\count566
+\l__datatool_hour_int=\count567
+\l__datatool_minute_int=\count568
+\l__datatool_second_int=\count569
+\l__datatool_tzhour_int=\count570
+\l__datatool_tzminute_int=\count571
+\l__datatool_julian_int=\count572
+\l__datatool_local_julian_int=\count573
+\l__datatool_prefix_int=\count574
+\l__datatool_suffix_int=\count575
+\@dtl@foreach@level=\count576
  (/usr/local/texlive/2026/texmf-dist/tex/latex/datatool-english/datatool-english.ldf
 File: datatool-english.ldf 2025/03/12 v1.1 (NLCT)
  (/usr/local/texlive/2026/texmf-dist/tex/latex/datatool-english/datatool-english-utf8.ldf
 File: datatool-english-utf8.ldf 2025/03/12 v1.1 (NLCT)
 ))
-\dtl@codeA=\count567
-\dtl@codeB=\count568
+\dtl@codeA=\count577
+\dtl@codeB=\count578
 )
-\gls@level=\count569
+\gls@level=\count579
 \@gls@tmpb=\toks61
 \gls@tmplen=\skip89
 \l__glossaries_tmpa_dim=\dimen344
@@ -1391,17 +1404,17 @@ Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
 \LTright=\skip92
 \LTpre=\skip93
 \LTpost=\skip94
-\LTchunksize=\count570
+\LTchunksize=\count580
 \LTcapwidth=\dimen346
 \LT@head=\box142
 \LT@firsthead=\box143
 \LT@foot=\box144
 \LT@lastfoot=\box145
 \LT@gbox=\box146
-\LT@cols=\count571
-\LT@rows=\count572
-\c@LT@tables=\count573
-\c@LT@chunks=\count574
+\LT@cols=\count581
+\LT@rows=\count582
+\c@LT@tables=\count583
+\c@LT@chunks=\count584
 \LT@p@ftn=\toks66
 )
 \glsdescwidth=\skip95
@@ -1410,7 +1423,7 @@ Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
 Package: glossary-super 2026/04/21 v5.1 (NLCT)
  (/usr/local/texlive/2026/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2025/06/26 v4.2d the supertabular environment
-\c@tracingst=\count575
+\c@tracingst=\count585
 \ST@wd=\dimen347
 \ST@rightskip=\skip97
 \ST@leftskip=\skip98
@@ -1427,7 +1440,7 @@ Package: supertabular 2025/06/26 v4.2d the supertabular environment
 \ST@pbox=\box147
 )) (/usr/local/texlive/2026/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2026/04/21 v5.1 (NLCT)
-\l__glossaries_tree_max_known_level_int=\count576
+\l__glossaries_tree_max_known_level_int=\count586
 \l__glossaries_tree_offset_dim=\dimen357
 \l__glossaries_tree_namewidth_dim=\dimen358
 \l__glossaries_tree_symbolwidth_dim=\dimen359
@@ -1437,18 +1450,18 @@ Package: glossary-tree 2026/04/21 v5.1 (NLCT)
 \l__glossaries_tree_symbolwidth_padding_dim=\dimen363
 \l__glossaries_tree_namesymbolwidth_dim=\dimen364
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen365
-\l__glossaries_tree_level_int=\count577
+\l__glossaries_tree_level_int=\count587
 \glstreeindent=\skip100
 ))
 \glswrite=\write6
 \glo@main@file=\write7
 
 \openout7 = main.glo
-Package glossaries Info: Writing glossary file main.glo on input line 6.
+Package glossaries Info: Writing glossary file main.glo on input line 5.
 \glo@acronym@file=\write8
 
 \openout8 = main.acn
-Package glossaries Info: Writing glossary file main.acn on input line 6.
+Package glossaries Info: Writing glossary file main.acn on input line 5.
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1484,16 +1497,16 @@ Package hyperref Info: Link coloring OFF on input line 4.
 \openout9 = main.out
  (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count578
+\scratchcounter=\count588
 \scratchdimen=\dimen366
 \scratchbox=\box148
-\nofMPsegments=\count579
-\nofMParguments=\count580
+\nofMPsegments=\count589
+\nofMParguments=\count590
 \everyMPshowfont=\toks67
-\MPscratchCnt=\count581
+\MPscratchCnt=\count591
 \MPscratchDim=\dimen367
-\MPnumerator=\count582
-\makeMPintoPDFobject=\count583
+\MPnumerator=\count592
+\makeMPintoPDFobject=\count593
 \everyMPtoPDFconversion=\toks68
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1592,16 +1605,41 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/SourceCodePro(0)/b/n on input line 4.
-\c@lstlisting=\count584
+\c@lstlisting=\count594
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+File: english-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+File: american-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Trying to load language 'naustrian' -> 'naustrian-apa'...
+Package biblatex Info: ... file 'naustrian-apa.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/naustrian-apa.lbx
+File: naustrian-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'naustrian'...
 Package biblatex Info: ... file 'naustrian.lbx' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/naustrian.lbx
 File: naustrian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
+Package biblatex Info: ... file 'german-apa.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/german-apa.lbx
+File: german-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/german.lbx
@@ -1610,7 +1648,15 @@ File: german.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 
 Package biblatex Warning: No hyphenation patterns for 'naustrian' on input line 581.
 
-)
+)))
+Package biblatex Info: Trying to load language 'naustrian'...
+Package biblatex Info: ... file 'naustrian.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/naustrian.lbx
+File: naustrian.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
+Package biblatex Info: ... file 'german-apa.lbx' found.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex-apa/german-apa.lbx
+File: german-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/german.lbx
@@ -1619,7 +1665,7 @@ File: german.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 
 Package biblatex Warning: No hyphenation patterns for 'naustrian' on input line 581.
 
-))
+))))
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1646,40 +1692,46 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 \tf@toc=\write10
 
 \openout10 = main.toc
-
-No file main.acr.
-
+ (./main.acr
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1
 
-]
-Chapter 1.
-[2
+]) [2
+
 
 ]
-Chapter 2.
+Chapter 1.
 [3
 
 ]
-Chapter 3.
+Chapter 2.
 [4
 
 ]
-Chapter 4.
+Chapter 3.
 [5
 
 ]
-Chapter 5.
+Chapter 4.
 [6
 
 ]
-Chapter 6.
+Chapter 5.
 [7
 
-] [8
+]
+Chapter 6.
+[8
+
+] [9
 
 ]
-Overfull \hbox (97.73587pt too wide) in paragraph at lines 62--63
+Overfull \hbox (9.65604pt too wide) in paragraph at lines 63--63
+\TU/NotoSans(0)/m/it/12 cated Rea-son-ing Un-der a Bud-get: Eval-u-at-ing System-1 Mod-els as Decision-makers\TU/NotoSans(0)/m/n/12 .
+ []
+
+[10]
+Overfull \hbox (97.73587pt too wide) in paragraph at lines 68--69
 \TU/NotoSans(0)/m/n/12 used to help write the code for this pa-per, which is avail-able at github.com/AppliedMachineLearning-
  []
 
@@ -1687,36 +1739,36 @@ Overfull \hbox (97.73587pt too wide) in paragraph at lines 62--63
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
-) [9
+) [11
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20261026132526 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted cleantemp  --timestamp 20261026160036 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
  (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-05-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1422ECDDA0FF625A81408B56D296702C;1908.
+(rerunfilecheck)             Checksum: 370916AFCE35C63F18AF2951D9E0B854;1908.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53072 strings out of 475703
+ 53039 strings out of 475703
  125083,2848258 words of node,token memory allocated
- 1618 words of node memory still in use:
-   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 199 attribute, 83 glue_spec, 67 attribute_list, 2 write, 48 pdf_literal nodes
-   avail lists: 1:5,2:738,3:191,4:7,5:147,6:50,7:1129,8:31,9:247,10:7,11:82,12:2
- 74717 multiletter control sequences out of 65536+600000
- 69 fonts using 24241023 bytes
- 101i,6n,116p,2576b,2481s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
-Output written on main.pdf (11 pages, 75297 bytes).
+ 1688 words of node memory still in use:
+   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 214 attribute, 83 glue_spec, 72 attribute_list, 2 write, 48 pdf_literal, 5 pdf_action nodes
+   avail lists: 1:7,2:1757,3:473,4:9,5:228,6:48,7:5917,8:62,9:251,10:9,11:335,12:3
+ 74632 multiletter control sequences out of 65536+600000
+ 70 fonts using 24773671 bytes
+ 101i,6n,132p,2576b,7357s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
+Output written on main.pdf (13 pages, 98698 bytes).
 
-PDF statistics: 206 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 1048576)
+PDF statistics: 286 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 1048576)
  389 words of extra memory for PDF output out of 10000 (max. 100000000)
 

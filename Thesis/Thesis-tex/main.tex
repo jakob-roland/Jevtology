@@ -19,7 +19,7 @@
 \printglossary[type=\acronymtype]
 
 \chapter{Introduction}\label{Introduction}
-
+\cite{janowiczGeoAISpatiallyExplicit2020} asked if there will be an \textit{"artificial GIS analyst"} by 2030. Since then there have been huge strides both in the field of \gls{ai} and autonomous \gls{gis} (\cite{liGIScienceEraArtificial2025}). But using \gls{llms} for spatial analysis requires large amounts compute, leading to low accessibility and high environmental impact (\cite{janowiczPhilosophicalFoundationsGeoAI2023, shiGeographyAISustainability2025}). \gls{llms} may produce unnecessary reasoning tokens with high latency (\cite{wangTruncatedReasoningBudget2026,chenNOTThinkThat2025,duanGeneralDecisionModels2026}) and a long response in natural language, which is difficult to process downstream. \textit{Decision models}, also described as \textit{system-one} models (\cite{kahnemanThinkingFastSlow2011}), might be more suitable for certain GeoAI (\cite{janowiczGeoAISpatiallyExplicit2020}) applications, as they operate more efficiently and quickly than \acrshort{llms}, as well as responding in a predetermined, consistent format. To test this assumption, this thesis reproduces the experiment on \textit{spatial relation qualification} done by \cite{jiFoundationModelsGeospatial2025} using Typesafe AI's model Jev (\cite{IntroducingSystemOne}).
 
 \chapter{Research Goals}
 
@@ -29,6 +29,12 @@
 \section{GeoAI}
 
 \section{General versus Decisional Intelligence}
+This decade has seen the emergence of \gls{ai} from highly specialized models to task-agnostic \gls{llms}, that show general intelligence or \enquote{\textit{the ability to adapt across diverse tasks and domains without task-specific retraining}} (\cite[p.2]{duanGeneralDecisionModels2026}). As frontier models grew in size and became more sophisticated, their abilities in text and image generation, software development, information retrieval, and reasoning improved. Alongside these advances, the need for compute and price of accessing frontier models is rising steadily. 
+
+With the recent release of the model Jev by the company Typesafe AI (\cite{IntroducingSystemOne}) a new type of \gls{ai} model, dubbed \textit{general decision models} (\cite{duanGeneralDecisionModels2026}), was introduced. Specialized on \textit{decisional intelligence}, or quick \enquote{off-the-cuff} thinking akin to \textit{system-one intelligence} (\cite{kahnemanThinkingFastSlow2011}), decision models prioritize quick, efficient responses over in-depth reasoning. Rather than taking a prompt in natural language and generating an open-ended response, decision models receive structured instructions to choose the answer between predetermined options.
+
+% Explain Jev and the options (Choice, Noul, Score) As an exapmle. Probably then lead into application (merge Benchmarking into this) and then Bias. (Ethical remarks can be incorporated into other sections) 
+
 
 \section{Benchmarking Jev}
 

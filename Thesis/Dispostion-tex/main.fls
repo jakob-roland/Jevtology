@@ -1,6 +1,6 @@
-PWD /home/jakob/Desktop/Jevtology/tex_article
+PWD /home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex
 INPUT /usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /home/jakob/Desktop/Jevtology/tex_article/main.tex
+INPUT /home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex
 OUTPUT main.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/ltluatex.lua

@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 11:41
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 14:32
  restricted system commands enabled.
  file:line:error style messages enabled.
-**/home/jakob/Desktop/Jevtology/tex_article/main.tex
-(/home/jakob/Desktop/Jevtology/tex_article/main.tex
+**/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex
+(/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-05-26>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -1456,11 +1456,11 @@ Package: glossary-tree 2026/04/21 v5.1 (NLCT)
 \glo@main@file=\write7
 
 \openout7 = main.glo
-Package glossaries Info: Writing glossary file main.glo on input line 6.
+Package glossaries Info: Writing glossary file main.glo on input line 5.
 \glo@acronym@file=\write8
 
 \openout8 = main.acn
-Package glossaries Info: Writing glossary file main.acn on input line 6.
+Package glossaries Info: Writing glossary file main.acn on input line 5.
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1658,7 +1658,7 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 ) [4]
-runsystem(latexminted cleantemp  --timestamp 20261026114137 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted cleantemp  --timestamp 20261026143254 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
  (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
@@ -1672,21 +1672,25 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53384 strings out of 475703
+ 52456 strings out of 475703
  125086,2848258 words of node,token memory allocated
- 1700 words of node memory still in use:
-   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 220 attribute, 81 glue_spec, 74 attribute_list, 2 write, 48 pdf_literal, 6 pdf_action nodes
-   avail lists: 1:6,2:2027,3:567,4:18,5:293,6:42,7:7930,8:62,9:284,10:15,11:559,12:2
- 75061 multiletter control sequences out of 65536+600000
+ 1714 words of node memory still in use:
+   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 223 attribute, 81 glue_spec, 75 attribute_list, 2 write, 48 pdf_literal, 7 pdf_action nodes
+   avail lists: 1:5,2:2027,3:567,4:14,5:281,6:44,7:7599,8:62,9:288,10:13,11:529,12:2
+ 74131 multiletter control sequences out of 65536+600000
  67 fonts using 23180527 bytes
- 103i,5n,116p,2791b,5186s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,5n,116p,2801b,5186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'glo:llms'
-</usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
-Output written on main.pdf (4 pages, 92205 bytes).
 
-PDF statistics: 174 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 1048576)
+warning  (pdf backend): unreferenced destination with name 'glo:gis'
+
+warning  (pdf backend): unreferenced destination with name 'glo:ai'
+</usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
+Output written on main.pdf (4 pages, 92254 bytes).
+
+PDF statistics: 180 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 1048576)
  261 words of extra memory for PDF output out of 10000 (max. 100000000)
 

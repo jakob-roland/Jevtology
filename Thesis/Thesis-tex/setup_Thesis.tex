@@ -1,0 +1,128 @@
+% !TEX root = main.tex
+% LTeX: enabled=false
+% IDE used for development: VS CODE with Latex Workshop
+% TeX Live 2026
+% Compile with LuaLatex
+
+\documentclass[12pt, a4paper]{report}
+
+% GENERAL PACKAGES o7
+% region
+\usepackage{hyperref}       % link handling and pdf metadata
+\usepackage{hyperxmp}       % link handling and pdf metadata
+\usepackage{xurl}           % url handling
+\usepackage{graphicx}       % graphics
+\usepackage{lua-ul}         % underlines, highlights, etc
+\usepackage{luacolor}       % color overall
+\usepackage{colortbl}       % Color for tables
+\usepackage{minted}         % code display
+\usepackage{rotating}       % used for rotating :O (sidewaystable)
+\usepackage{multicol}       % used for multicolumns
+\usepackage{enumitem}       % used for custom enumeration (\begin{enumerate}[label=Question \arabic*:])
+\usepackage{verbatim}       % used for the verbatim and comment enviroments
+% endregion
+
+% region — LANUGUAGE and locale settings 
+\usepackage[main=english]{babel}   % language (naustrian)
+\usepackage{csquotes}           % locale quotes (use \enquote{})
+% endregion
+
+% TITLE, METADATA and URL-Handling (hypersetup)
+% region
+\title{
+  Decision Models in GeoAI: \\[0.5em]
+  \large Testing Jev for qualifying spatial relations. \\[0.5em]
+  \normalsize Master's Thesis
+}
+\author{Jakob Roland}
+\date{\today}
+
+\hypersetup{
+    pdftitle={Decision Models in GeoAI: Testing Jev for qualifying spatial relations.},
+    pdfauthor={Jakob Roland},
+    pdflang={en},
+    colorlinks=false,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=cyan,
+    pdfborder={0 0 0}
+}
+\urlstyle{same} 
+% endregion
+
+% MISCELLANEOUS SETUP and CONFIGURATION
+% region
+\graphicspath{ {./Figures/} }
+\renewcommand{\listingscaption}{Code Sample}
+
+% endregion
+
+% TYPESETTING (font, margins, formatting)
+% region
+\usepackage{parskip}
+\usepackage[margin=2.5cm]{geometry}
+\linespread{1.15}
+% \setlength{\parindent}{1em} % to regain paragraph indent
+
+% Customize the chapter format
+\usepackage{titlesec}
+\titleformat{\chapter}[hang] 
+  {\normalfont\huge\bfseries}   % Format of the whole heading
+  {\thechapter.\ }              % Label: "1. "
+  {0pt}                         % Space between label and title
+  {\huge}                       % Format of the title text
+
+% Font
+\usepackage{fontspec}
+\setmainfont{Noto Sans}
+\newfontfamily\symbolsfont{DejaVu Sans}
+\setmonofont{Source Code Pro}
+% endregion
+
+% region — Boxes or Quotes
+\usepackage[most]{tcolorbox}
+
+
+% REFERENCES (Zotero)
+% region 
+% \usepackage[style=apa]{biblatex}
+% \usepackage[style=apa, citestyle=numeric]{biblatex}
+% \usepackage[style=numeric]{biblatex}
+\usepackage[style=ieee]{biblatex}
+\addbibresource{/home/jakob/Zotero/MyLibrary_BibLatex.bib}
+% endregion
+
+% TABLES
+% region
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{booktabs}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+% endregion
+
+% CUSTOM COMMANDS
+% region
+% Emphasisized comments (Gemini chose the name)
+\newcommand{\meth}[1]{\highLight[yellow]{\emph{#1}}}
+
+% Context headings
+\newcommand{\ctxH}[1]{
+  {\hspace*{1cm}\textcolor[RGB]{180, 180, 180}{\textit{#1}}}
+}
+% endregion
+
+\input{acronyms}
+
+% Latex Cheatsheet
+\begin{comment}
+Relative Size Commands
+\tiny
+\scriptsize
+\footnotesize
+\small
+\normalsize
+\large
+\Large
+\LARGE
+\Huge
+\end{comment}

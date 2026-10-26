@@ -254,6 +254,210 @@
       \verb https://proceedings.mlr.press/v267/chen25bx.html
       \endverb
     \endentry
+    \entry{deusserEvaluatingBenchmarkingSystem2026}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b14c6e2ae075da9a2b9b164db527273}{%
+           family={Deußer},
+           familyi={D\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
+           family={Sparrenberg},
+           familyi={S\bibinitperiod},
+           given={Lorenz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63b7412f5a4ed5097d846705eb11b5b9}{%
+           family={Sifa},
+           familyi={S\bibinitperiod},
+           given={Rafet},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{fullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{fullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{bibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorbibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authornamehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{authorfullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorfullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines, such as routing queries, checking grounding, moderating content, or rating against a rubric. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets spanning classification, routing, natural language inference, reading comprehension, commonsense reasoning, moderation, legal clause analysis and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under USD 10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact next-token probabilities over the options. Jev reaches 95-99\% accuracy on IMDB, SST-2, HellaSwag and ARC and 86.7\% on Belebele across 122 languages. It beats Qwen on 27 of 37 datasets, with none of Qwen's nine leads outside the bootstrap intervals, and Gemma on all 37. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based quality judgments. Jev's choice probabilities are well calibrated and support selective prediction. Binary probabilities rank well but are poorly placed relative to a fixed 0.5 threshold; thresholds tuned on training data raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions (94\% vs. 91\%), whereas both open models, and all three on C-Eval, find them harder. Rotating the options leaves Jev's accuracy unchanged and withholding the question drops it to near chance, ruling out shallow memorization but not memorized question-answer pairs. We release the code, harness and all raw responses.}
+      \field{day}{29}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{9}
+      \field{title}{Evaluating and {{Benchmarking}} the {{System One Model Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2609.37647
+      \endverb
+      \verb{eprint}
+      \verb 2609.37647
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Deußer et al. - 2026 - Evaluating and Benchmarking the System One Model Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language}
+    \endentry
+    \entry{duanGeneralDecisionModels2026}{online}{}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=028661b348ea89b2afc70cf544a10cdb}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Feiyu},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e453927e646e355f3edb61c5518de1d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fabb321bc41bb6636a1899d564415e9}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e7511aeb41ac851633c2da3672a4be}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jialiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b034fed5686ccd55eaf8d13aa4730}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xinnong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c81452ed3af4c13137ba9426b072e98a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7d4dd2fe6ecb5720d0b869dc1b83ee}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7db1b7daf525818abea6508831822f3}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{fullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{fullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \strng{bibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorbibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authornamehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{authorfullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorfullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
+      \field{day}{12}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{General {{Decision Models}}}
+      \field{title}{General {{Decision Models}}: {{Benchmarking}} and {{Insights Beyond Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.03935
+      \endverb
+      \verb{eprint}
+      \verb 2610.03935
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Duan et al. - 2026 - General Decision Models Benchmarking and Insights Beyond Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
+    \entry{duanAutomaticAlignmentContemporary2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b77f23ac7e2911c0c7d250411243dee1}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{fullhash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{fullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{bibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorbibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authornamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorfullhash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorfullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{issn}{1365-8816}
+      \field{journaltitle}{International journal of geographical information science : IJGIS}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Automatic Alignment of Contemporary Vector Data and Georeferenced Historical Maps Using Reinforcement Learning}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{824\bibrangedash 849}
+      \range{pages}{26}
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Duan - 2020 - Automatic alignment of contemporary vector data and georeferenced historical maps using reinforcemen.pdf
+      \endverb
+    \endentry
     \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
@@ -386,6 +590,28 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+    \endentry
+    \entry{Jev113Jaggedness}{online}{}{}
+      \list{organization}{1}{%
+        {TypeSafe}%
+      }
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev isn't perfect. Here are some jagged edges we are aware of with jev-1.13. Many of these will be fixed in later versions.}
+      \field{langid}{english}
+      \field{title}{Jev 1.13 Jaggedness}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
+      \endverb
+      \verb{url}
+      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
       \endverb
     \endentry
     \entry{jiFoundationModelsGeospatial2025}{article}{}{}
@@ -1318,6 +1544,210 @@
       \verb https://proceedings.mlr.press/v267/chen25bx.html
       \endverb
     \endentry
+    \entry{deusserEvaluatingBenchmarkingSystem2026}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b14c6e2ae075da9a2b9b164db527273}{%
+           family={Deußer},
+           familyi={D\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
+           family={Sparrenberg},
+           familyi={S\bibinitperiod},
+           given={Lorenz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63b7412f5a4ed5097d846705eb11b5b9}{%
+           family={Sifa},
+           familyi={S\bibinitperiod},
+           given={Rafet},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{fullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{fullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{bibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorbibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authornamehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{authorfullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorfullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines, such as routing queries, checking grounding, moderating content, or rating against a rubric. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets spanning classification, routing, natural language inference, reading comprehension, commonsense reasoning, moderation, legal clause analysis and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under USD 10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact next-token probabilities over the options. Jev reaches 95-99\% accuracy on IMDB, SST-2, HellaSwag and ARC and 86.7\% on Belebele across 122 languages. It beats Qwen on 27 of 37 datasets, with none of Qwen's nine leads outside the bootstrap intervals, and Gemma on all 37. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based quality judgments. Jev's choice probabilities are well calibrated and support selective prediction. Binary probabilities rank well but are poorly placed relative to a fixed 0.5 threshold; thresholds tuned on training data raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions (94\% vs. 91\%), whereas both open models, and all three on C-Eval, find them harder. Rotating the options leaves Jev's accuracy unchanged and withholding the question drops it to near chance, ruling out shallow memorization but not memorized question-answer pairs. We release the code, harness and all raw responses.}
+      \field{day}{29}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{9}
+      \field{title}{Evaluating and {{Benchmarking}} the {{System One Model Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2609.37647
+      \endverb
+      \verb{eprint}
+      \verb 2609.37647
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Deußer et al. - 2026 - Evaluating and Benchmarking the System One Model Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language}
+    \endentry
+    \entry{duanGeneralDecisionModels2026}{online}{}{}
+      \name{author}{9}{}{%
+        {{un=1,uniquepart=given,hash=028661b348ea89b2afc70cf544a10cdb}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Feiyu},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jiayu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e453927e646e355f3edb61c5518de1d1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fabb321bc41bb6636a1899d564415e9}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38e7511aeb41ac851633c2da3672a4be}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jialiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a6b034fed5686ccd55eaf8d13aa4730}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xinnong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c81452ed3af4c13137ba9426b072e98a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7d4dd2fe6ecb5720d0b869dc1b83ee}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7db1b7daf525818abea6508831822f3}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{fullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{fullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \strng{bibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorbibnamehash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authornamehash}{b8fd60c3c114e1410c7b3edd98d0890c}
+      \strng{authorfullhash}{b15a398ad6d121e5873f86695d465e46}
+      \strng{authorfullhashraw}{b15a398ad6d121e5873f86695d465e46}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
+      \field{day}{12}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{10}
+      \field{shorttitle}{General {{Decision Models}}}
+      \field{title}{General {{Decision Models}}: {{Benchmarking}} and {{Insights Beyond Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2610.03935
+      \endverb
+      \verb{eprint}
+      \verb 2610.03935
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Duan et al. - 2026 - General Decision Models Benchmarking and Insights Beyond Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2610.03935
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
+    \entry{duanAutomaticAlignmentContemporary2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b77f23ac7e2911c0c7d250411243dee1}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{fullhash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{fullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{bibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorbibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authornamehash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorfullhash}{b77f23ac7e2911c0c7d250411243dee1}
+      \strng{authorfullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{issn}{1365-8816}
+      \field{journaltitle}{International journal of geographical information science : IJGIS}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Automatic Alignment of Contemporary Vector Data and Georeferenced Historical Maps Using Reinforcement Learning}
+      \field{volume}{34}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{824\bibrangedash 849}
+      \range{pages}{26}
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Duan - 2020 - Automatic alignment of contemporary vector data and georeferenced historical maps using reinforcemen.pdf
+      \endverb
+    \endentry
     \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f8032db780b653246bf029dcbffb6859}{%
@@ -1450,6 +1880,28 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1080/13658816.2019.1684500
+      \endverb
+    \endentry
+    \entry{Jev113Jaggedness}{online}{}{}
+      \list{organization}{1}{%
+        {TypeSafe}%
+      }
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev isn't perfect. Here are some jagged edges we are aware of with jev-1.13. Many of these will be fixed in later versions.}
+      \field{langid}{english}
+      \field{title}{Jev 1.13 Jaggedness}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
+      \endverb
+      \verb{url}
+      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
       \endverb
     \endentry
     \entry{jiFoundationModelsGeospatial2025}{article}{}{}

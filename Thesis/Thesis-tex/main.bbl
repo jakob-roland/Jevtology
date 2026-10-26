@@ -1,0 +1,85 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{deusserEvaluatingBenchmarkingSystem2026}{online}{}{}
+      \name{author}{3}{}{%
+        {{hash=4b14c6e2ae075da9a2b9b164db527273}{%
+           family={Deußer},
+           familyi={D\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4d5ddda823d383ceb7d17fab6973c3e9}{%
+           family={Sparrenberg},
+           familyi={S\bibinitperiod},
+           given={Lorenz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=63b7412f5a4ed5097d846705eb11b5b9}{%
+           family={Sifa},
+           familyi={S\bibinitperiod},
+           given={Rafet},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{fullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{fullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{bibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorbibnamehash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authornamehash}{abfdfdaec98b7057a5f0921cdd366dd0}
+      \strng{authorfullhash}{ed49c7b3642a15006279bbad29b4a709}
+      \strng{authorfullhashraw}{ed49c7b3642a15006279bbad29b4a709}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines, such as routing queries, checking grounding, moderating content, or rating against a rubric. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets spanning classification, routing, natural language inference, reading comprehension, commonsense reasoning, moderation, legal clause analysis and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under USD 10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact next-token probabilities over the options. Jev reaches 95-99\% accuracy on IMDB, SST-2, HellaSwag and ARC and 86.7\% on Belebele across 122 languages. It beats Qwen on 27 of 37 datasets, with none of Qwen's nine leads outside the bootstrap intervals, and Gemma on all 37. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based quality judgments. Jev's choice probabilities are well calibrated and support selective prediction. Binary probabilities rank well but are poorly placed relative to a fixed 0.5 threshold; thresholds tuned on training data raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions (94\% vs. 91\%), whereas both open models, and all three on C-Eval, find them harder. Rotating the options leaves Jev's accuracy unchanged and withholding the question drops it to near chance, ruling out shallow memorization but not memorized question-answer pairs. We release the code, harness and all raw responses.}
+      \field{day}{29}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{month}{9}
+      \field{pubstate}{prepublished}
+      \field{title}{Evaluating and {{Benchmarking}} the {{System One Model Jev}}}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2609.37647
+      \endverb
+      \verb{eprint}
+      \verb 2609.37647
+      \endverb
+      \verb{file}
+      \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Deußer et al. - 2026 - Evaluating and Benchmarking the System One Model Jev.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2609.37647
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

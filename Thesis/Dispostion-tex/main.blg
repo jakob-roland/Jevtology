@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[45] biber:342> INFO - === Mon Oct 26, 2026, 11:36:05
+[54] Biber.pm:421> INFO - Reading 'main.bcf'
+[102] Biber.pm:1002> INFO - Found 15 citekeys in bib section 0
+[112] Biber.pm:4487> INFO - Processing section 0
+[117] Biber.pm:4678> INFO - Looking for bibtex file '/home/jakob/ucloud/Zotero/MyLibrary_BibLatex.bib' for section 0
+[124] bibtex.pm:1713> INFO - LaTeX decoding ...
+[246] bibtex.pm:1519> INFO - Found BibTeX data source '/home/jakob/ucloud/Zotero/MyLibrary_BibLatex.bib'
+[412] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[412] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[412] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[412] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[444] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[444] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[444] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[459] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[478] bbl.pm:779> INFO - Output to main.bbl
+[478] Biber.pm:132> WARN - ISBN '978-0-374-27563-1 978-0-374-53355-7 978-0-606-27564-4' in entry 'kahnemanThinkingFastSlow2011' is invalid - run biber with '--validate_datamodel' for details.
+[478] Biber.pm:134> INFO - WARNINGS: 1

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1793021435.70709 "main.bcf" "main.bbl" "main" 1793021578.66594 0
-  "/home/jakob/ucloud/Zotero/MyLibrary_BibLatex.bib" 1793020198.39606 238519 903ef00b83a6337080ecdad4976949b3 ""
-  "main.bcf" 1793021578.47567 136307 05c2fbfa7cd0789f6827997e74ab1d43 "lualatex"
+["biber main"] 1793050744.3479 "main.bcf" "main.bbl" "main" 1793051095.35118 0
+  "/home/jakob/ucloud/Zotero/MyLibrary_BibLatex.bib" 1793048308.94401 241032 0bba8619c0318f9f852e1fdf25570d90 ""
+  "main.bcf" 1793051095.1628 135802 d31220f9f4f3f0516dbc97c2d31a1eb5 "lualatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["lualatex"] 1793021574.86673 "/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex" "main.pdf" "main" 1793021578.6662 0
+["lualatex"] 1793051091.66345 "/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex" "main.pdf" "main" 1793051095.35144 0
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/dejavusans-bold.luc" 1781706306.47583 707977 d25a548b7aaba196bda512c59d27ab0b ""
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/dejavusans-boldoblique.luc" 1781706306.26679 604936 b4415b3d40036f9e39a54456c7c3c051 ""
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/dejavusans-oblique.luc" 1781706306.63486 598082 553f6b8efaa7fc83b089d2454f3f8dc4 ""
@@ -23,7 +23,7 @@
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/sourcecodepro-regularit.luc" 1781704909.18528 159884 011f2b1087ec9b453a4cd8901e156fb5 ""
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1790928953.43 17385 35ab820130b566d9030665ac97323abe ""
   "/home/jakob/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1781704256.16555 588541 cc983cfc2e7325d4a93456befdc69822 ""
-  "/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex" 1793021574.69167 4621 ac3e37e0a402fa17dd3f6d8b9a55824c ""
+  "/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex" 1793051091.49365 4714 684e05a3a10238aa6559a050246f9cdf ""
   "/usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Bold.otf" 1744143336 134020 ec83816e7ec8fa6d3c3a60bdb8cf89de ""
   "/usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-BoldIt.otf" 1744143336 110288 115ab516ef50e795dc3c9481101006ac ""
   "/usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf" 1744143336 131128 f471e697282189889a1514d0ebcf5491 ""
@@ -339,11 +339,11 @@
   "/usr/share/fonts/truetype/noto/NotoSans-Italic.ttf" 1608951682 530120 32e7bf1f1aed5c0fad4f5690e8c41363 ""
   "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf" 1608951682 512672 d36dcb78f876e306e0dd9e7b4c2f7628 ""
   "acronyms.tex" 1793021421.17677 270 fa7ee9fec6d175dd44d50118010529dc ""
-  "main.aux" 1793021578.46767 6912 39b9a4699baca3be7de8837516e593b0 "lualatex"
-  "main.bbl" 1793021436.78662 134060 c77ba5e062c5c09a6ab567d6c21dde16 "biber main"
-  "main.out" 1793021576.47187 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "main.run.xml" 1793021578.47743 2496 78d53c93815dfc0e3a6017c907e0f2ba "lualatex"
-  "main.tex" 1793021574.69167 4621 ac3e37e0a402fa17dd3f6d8b9a55824c ""
+  "main.aux" 1793051095.1568 5541 b6a7e6d73920da188a3ce75b6a863aa2 "lualatex"
+  "main.bbl" 1793050745.29746 105442 f1b882542e9f4e457da6aa7d401e6fbc "biber main"
+  "main.out" 1793051093.26698 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "main.run.xml" 1793051095.16427 2496 78d53c93815dfc0e3a6017c907e0f2ba "lualatex"
+  "main.tex" 1793051091.49365 4714 684e05a3a10238aa6559a050246f9cdf ""
   "setup_Article.tex" 1792834366.10958 3438 3b801069cb93625c88ca688767a14203 ""
   (generated)
   "main.acn"

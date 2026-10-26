@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 14:32
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.3)  26 OCT 2026 22:44
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/jakob/Desktop/Jevtology/Thesis/Dispostion-tex/main.tex
@@ -1647,19 +1647,18 @@ Overfull \hbox (9.65604pt too wide) in paragraph at lines 35--35
 \TU/NotoSans(0)/m/it/12 cated Rea-son-ing Un-der a Bud-get: Eval-u-at-ing System-1 Mod-els as Decision-makers\TU/NotoSans(0)/m/n/12 .
  []
 
-[3]
+(/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
+File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
+) [3]
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-(/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
-File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf32be.def
-File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
-) [4]
-runsystem(latexminted cleantemp  --timestamp 20261026143254 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
- (./main.aux)
+runsystem(latexminted cleantemp  --timestamp 20261026224451 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+(./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-05-26>
@@ -1672,12 +1671,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 52456 strings out of 475703
+ 52417 strings out of 475703
  125086,2848258 words of node,token memory allocated
- 1714 words of node memory still in use:
-   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 223 attribute, 81 glue_spec, 75 attribute_list, 2 write, 48 pdf_literal, 7 pdf_action nodes
-   avail lists: 1:5,2:2027,3:567,4:14,5:281,6:44,7:7599,8:62,9:288,10:13,11:529,12:2
- 74131 multiletter control sequences out of 65536+600000
+ 1700 words of node memory still in use:
+   30 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 220 attribute, 81 glue_spec, 74 attribute_list, 2 write, 48 pdf_literal, 6 pdf_action nodes
+   avail lists: 1:5,2:1708,3:485,4:14,5:270,6:43,7:7489,8:62,9:281,10:13,11:561,12:2
+ 74098 multiletter control sequences out of 65536+600000
  67 fonts using 23180527 bytes
  103i,5n,116p,2801b,5186s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -1687,10 +1686,10 @@ warning  (pdf backend): unreferenced destination with name 'glo:gis'
 
 warning  (pdf backend): unreferenced destination with name 'glo:ai'
 </usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.otf></usr/share/fonts/truetype/noto/NotoSans-Bold.ttf></usr/share/fonts/truetype/noto/NotoSans-Italic.ttf></usr/share/fonts/truetype/noto/NotoSans-Regular.ttf>
-Output written on main.pdf (4 pages, 92254 bytes).
+Output written on main.pdf (3 pages, 90048 bytes).
 
-PDF statistics: 180 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 1048576)
+PDF statistics: 160 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 1048576)
  261 words of extra memory for PDF output out of 10000 (max. 100000000)
 

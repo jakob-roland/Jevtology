@@ -72,10 +72,10 @@
       \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Aldahoul and Zaki - 2026 - The Jev Decision Model Applies Astrological And Demographic Stereotypes When Recommending Friends.pdf
       \endverb
       \verb{urlraw}
-      \verb https://papers.ssrn.com/abstract=7633902
+      \verb https://ssrn.com/abstract=7633902
       \endverb
       \verb{url}
-      \verb https://papers.ssrn.com/abstract=7633902
+      \verb https://ssrn.com/abstract=7633902
       \endverb
       \keyw{▎ algorithmic bias,AI auditing,astrology,conjoint experiment,decision models,friendship recommendation,homophily,people recommendation,stereotypes,zodiac signs}
     \endentry
@@ -321,12 +321,12 @@
     \endentry
     \entry{duanGeneralDecisionModels2026}{online}{}{}
       \name{author}{9}{}{%
-        {{un=1,uniquepart=given,hash=028661b348ea89b2afc70cf544a10cdb}{%
+        {{un=0,uniquepart=base,hash=028661b348ea89b2afc70cf544a10cdb}{%
            family={Duan},
            familyi={D\bibinitperiod},
            given={Feiyu},
            giveni={F\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
            family={Lin},
            familyi={L\bibinitperiod},
@@ -388,6 +388,7 @@
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
@@ -419,44 +420,6 @@
       \verb http://arxiv.org/abs/2610.03935
       \endverb
       \keyw{Computer Science - Computation and Language}
-    \endentry
-    \entry{duanAutomaticAlignmentContemporary2020}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=b77f23ac7e2911c0c7d250411243dee1}{%
-           family={Duan},
-           familyi={D\bibinitperiod},
-           given={Weiwei},
-           giveni={W\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{fullhash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{fullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{bibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorbibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authornamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorfullhash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorfullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{2}
-      \field{issn}{1365-8816}
-      \field{journaltitle}{International journal of geographical information science : IJGIS}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{Automatic Alignment of Contemporary Vector Data and Georeferenced Historical Maps Using Reinforcement Learning}
-      \field{volume}{34}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{pages}{824\bibrangedash 849}
-      \range{pages}{26}
-      \verb{file}
-      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Duan - 2020 - Automatic alignment of contemporary vector data and georeferenced historical maps using reinforcemen.pdf
-      \endverb
     \endentry
     \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
       \name{author}{1}{}{%
@@ -592,28 +555,6 @@
       \verb https://doi.org/10.1080/13658816.2019.1684500
       \endverb
     \endentry
-    \entry{Jev113Jaggedness}{online}{}{}
-      \list{organization}{1}{%
-        {TypeSafe}%
-      }
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Jev isn't perfect. Here are some jagged edges we are aware of with jev-1.13. Many of these will be fixed in later versions.}
-      \field{langid}{english}
-      \field{title}{Jev 1.13 Jaggedness}
-      \field{urlday}{26}
-      \field{urlmonth}{10}
-      \field{urlyear}{2026}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
-      \endverb
-      \verb{url}
-      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
-      \endverb
-    \endentry
     \entry{jiFoundationModelsGeospatial2025}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d59f1323f26b22fedda5e6b77debfd1c}{%
@@ -693,44 +634,6 @@
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
       \endverb
-    \endentry
-    \entry{kahnemanThinkingFastSlow2011}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
-           family={Kahneman},
-           familyi={K\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Farrar, Straus and Giroux}%
-      }
-      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1st ed}
-      \field{isbn}{978-0-374-27563-1 978-0-374-53355-7 978-0-606-27564-4}
-      \field{pagetotal}{499}
-      \field{title}{Thinking, Fast and Slow}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \keyw{Decision making,Intuition,Reasoning,Thought and thinking}
     \endentry
     \entry{liGIScienceEraArtificial2025}{article}{}{}
       \name{author}{16}{}{%
@@ -878,240 +781,6 @@
       \verb{url}
       \verb https://doi.org/10.1080/19475683.2025.2552161
       \endverb
-    \endentry
-    \entry{schulhoffPromptReportSystematic2025}{online}{}{}
-      \name{author}{31}{}{%
-        {{un=0,uniquepart=base,hash=572b48d10d1ca3e03df3bc08618dd048}{%
-           family={Schulhoff},
-           familyi={S\bibinitperiod},
-           given={Sander},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f773aed534a538a4d3ae125e53c149ea}{%
-           family={Ilie},
-           familyi={I\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=808d5cf88672b716f29359a1f06601a7}{%
-           family={Balepur},
-           familyi={B\bibinitperiod},
-           given={Nishant},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5656eef590db99fef15521bd8d6664a2}{%
-           family={Kahadze},
-           familyi={K\bibinitperiod},
-           given={Konstantine},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7db5a7d413ea00d686fedd2fca543e76}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Amanda},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=50e55ce524a6cabd5d5e862c580e6869}{%
-           family={Si},
-           familyi={S\bibinitperiod},
-           given={Chenglei},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f29f16103d47cb547a785ee081268c6c}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yinheng},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9296da738820f1b8b76320d669ddf026}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={Aayush},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8d84a2e19f8a55ae31fed72deaca052f}{%
-           family={Han},
-           familyi={H\bibinitperiod},
-           given={HyoJung},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=585714f3d76ef67cccb61d198cf96414}{%
-           family={Schulhoff},
-           familyi={S\bibinitperiod},
-           given={Sevien},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ecf854451ee44b99aed3d2a8f75f16f7}{%
-           family={Dulepet},
-           familyi={D\bibinitperiod},
-           given={Pranav\bibnamedelima Sandeep},
-           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5273e3b95f1d5e352c8928ac085b77dd}{%
-           family={Vidyadhara},
-           familyi={V\bibinitperiod},
-           given={Saurav},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4faf825befa660f75adda8a62fbfb09c}{%
-           family={Ki},
-           familyi={K\bibinitperiod},
-           given={Dayeon},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f4421642bbde13def706feefe9c39cd7}{%
-           family={Agrawal},
-           familyi={A\bibinitperiod},
-           given={Sweta},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c29742d2f39170d7cf9a84130831a615}{%
-           family={Pham},
-           familyi={P\bibinitperiod},
-           given={Chau},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=56c2ff6af16c277a949b37c15764cea3}{%
-           family={Kroiz},
-           familyi={K\bibinitperiod},
-           given={Gerson},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ab0ec45eff644771d4bff0e3c40ea5b4}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Feileen},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc4392d541b6736084a5924ff2835aee}{%
-           family={Tao},
-           familyi={T\bibinitperiod},
-           given={Hudson},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=99ef240a2d6161f24bf8e184d702b858}{%
-           family={Srivastava},
-           familyi={S\bibinitperiod},
-           given={Ashay},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3d1e53ef82e068c9b4c0ac36b5a62465}{%
-           family={Costa},
-           familyi={C\bibinitperiod},
-           given={Hevander\bibnamedelima Da},
-           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cabc6222f57be750e3994dd409393bcb}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={Saloni},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=dddf87565cbd257bcff294fa6895bb9b}{%
-           family={Rogers},
-           familyi={R\bibinitperiod},
-           given={Megan\bibnamedelima L.},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffeb4cadd4e7a686ad942605402b1421}{%
-           family={Goncearenco},
-           familyi={G\bibinitperiod},
-           given={Inna},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e98891b7c731d9cde323ca7421d57c3}{%
-           family={Sarli},
-           familyi={S\bibinitperiod},
-           given={Giuseppe},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ec2a89421c1103dd9b9d95f01373ea8}{%
-           family={Galynker},
-           familyi={G\bibinitperiod},
-           given={Igor},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=881557f79cb190ba4cc79eb775dc3db7}{%
-           family={Peskoff},
-           familyi={P\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9cf67a53d9ebd335c787b143ec098196}{%
-           family={Carpuat},
-           familyi={C\bibinitperiod},
-           given={Marine},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d224ecfefc70293d1b9b28a1915cf6f2}{%
-           family={White},
-           familyi={W\bibinitperiod},
-           given={Jules},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9a831d318c9a798d7b9d1aff1545943e}{%
-           family={Anadkat},
-           familyi={A\bibinitperiod},
-           given={Shyamal},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=44177551d66b6f0da271276a2b65f585}{%
-           family={Hoyle},
-           familyi={H\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ba57143778a42bc76658900fe675e760}{%
-           family={Resnik},
-           familyi={R\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ef0db98bd7be90261474bc3de8f33007}
-      \strng{fullhash}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{fullhashraw}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{bibnamehash}{294734480bfd6712c6dcd1040d93c39c}
-      \strng{authorbibnamehash}{294734480bfd6712c6dcd1040d93c39c}
-      \strng{authornamehash}{ef0db98bd7be90261474bc3de8f33007}
-      \strng{authorfullhash}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{authorfullhashraw}{ae2bed18fe078315a7d427dea7c41cfc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Generative Artificial Intelligence (GenAI) systems are increasingly being deployed across diverse industries and research domains. Developers and end-users interact with these systems through the use of prompting and prompt engineering. Although prompt engineering is a widely adopted and extensively researched area, it suffers from conflicting terminology and a fragmented ontological understanding of what constitutes an effective prompt due to its relatively recent emergence. We establish a structured understanding of prompt engineering by assembling a taxonomy of prompting techniques and analyzing their applications. We present a detailed vocabulary of 33 vocabulary terms, a taxonomy of 58 LLM prompting techniques, and 40 techniques for other modalities. Additionally, we provide best practices and guidelines for prompt engineering, including advice for prompting state-of-the-art (SOTA) LLMs such as ChatGPT. We further present a meta-analysis of the entire literature on natural language prefix-prompting. As a culmination of these efforts, this paper presents the most comprehensive survey on prompt engineering to date.}
-      \field{day}{26}
-      \field{eprintclass}{cs}
-      \field{eprinttype}{arXiv}
-      \field{month}{2}
-      \field{shorttitle}{The {{Prompt Report}}}
-      \field{title}{The {{Prompt Report}}: {{A Systematic Survey}} of {{Prompt Engineering Techniques}}}
-      \field{urlday}{23}
-      \field{urlmonth}{3}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.48550/arXiv.2406.06608
-      \endverb
-      \verb{eprint}
-      \verb 2406.06608
-      \endverb
-      \verb{file}
-      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Schulhoff et al. - 2025 - The Prompt Report A Systematic Survey of Prompt Engineering Techniques.pdf;/home/jakob/ucloud/Zotero/storage/YZUCDMNZ/2406.html
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/2406.06608
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/2406.06608
-      \endverb
-      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Prompt Engineering}
     \endentry
     \entry{shiGeographyAISustainability2025}{article}{}{}
       \name{author}{9}{}{%
@@ -1362,10 +1031,10 @@
       \verb /home/jakob/ucloud/KOReader/Zotero/AI/Desicion Models/Aldahoul and Zaki - 2026 - The Jev Decision Model Applies Astrological And Demographic Stereotypes When Recommending Friends.pdf
       \endverb
       \verb{urlraw}
-      \verb https://papers.ssrn.com/abstract=7633902
+      \verb https://ssrn.com/abstract=7633902
       \endverb
       \verb{url}
-      \verb https://papers.ssrn.com/abstract=7633902
+      \verb https://ssrn.com/abstract=7633902
       \endverb
       \keyw{▎ algorithmic bias,AI auditing,astrology,conjoint experiment,decision models,friendship recommendation,homophily,people recommendation,stereotypes,zodiac signs}
     \endentry
@@ -1611,12 +1280,12 @@
     \endentry
     \entry{duanGeneralDecisionModels2026}{online}{}{}
       \name{author}{9}{}{%
-        {{un=1,uniquepart=given,hash=028661b348ea89b2afc70cf544a10cdb}{%
+        {{un=0,uniquepart=base,hash=028661b348ea89b2afc70cf544a10cdb}{%
            family={Duan},
            familyi={D\bibinitperiod},
            given={Feiyu},
            giveni={F\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=00a2604a56962ab53417e3a0c5b89284}{%
            family={Lin},
            familyi={L\bibinitperiod},
@@ -1678,6 +1347,7 @@
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{General decision models, such as Jev, have recently emerged as efficient alternatives to LLMs for structured judgment and selection. But what kinds of decisions can these models reliably make, and how does their behavior change when individual decisions are composed into larger systems? To study this, we introduce JEVal, a bilingual benchmark comprising 11,257 instances from 36 datasets across 10 application domains, and evaluate 25 model configurations spanning general decision models and generative LLMs. Our results show that (1) general decision models are most competitive when decisions can be resolved from available evidence, but weaken when they require specialist knowledge or faithful uncertainty estimation: they can often identify the most likely outcome while substantially overstating its probability. (2) In more dynamic and realistic systems involving long-horizon, multi-step interactions, the advantages of fast local decision making are offset by reliability failures at the system level. on \$τ\$-bench, faster local decisions reduce median episode time but lower task success as decision errors accumulate over long trajectories. (3) In large-scale social simulation, decision models approach strong generative LLMs on individual response prediction at substantially lower inference cost, yet remain weaker in user profiling and exhibit larger aggregate estimation errors and systematic bias. Finally, we propose SII-Decision-4B and SII-Decision-27B, which internalize an open-weight LLM's own reasoning into a single-pass first-token decision through Reasoning-to-Readout Self-Distillation, with SII-Decision-27B performing on par with Jev on JEVal while answering a typical query in about 0.1 s.}
@@ -1709,44 +1379,6 @@
       \verb http://arxiv.org/abs/2610.03935
       \endverb
       \keyw{Computer Science - Computation and Language}
-    \endentry
-    \entry{duanAutomaticAlignmentContemporary2020}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=b77f23ac7e2911c0c7d250411243dee1}{%
-           family={Duan},
-           familyi={D\bibinitperiod},
-           given={Weiwei},
-           giveni={W\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{fullhash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{fullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{bibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorbibnamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authornamehash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorfullhash}{b77f23ac7e2911c0c7d250411243dee1}
-      \strng{authorfullhashraw}{b77f23ac7e2911c0c7d250411243dee1}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{2}
-      \field{issn}{1365-8816}
-      \field{journaltitle}{International journal of geographical information science : IJGIS}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{Automatic Alignment of Contemporary Vector Data and Georeferenced Historical Maps Using Reinforcement Learning}
-      \field{volume}{34}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{pages}{824\bibrangedash 849}
-      \range{pages}{26}
-      \verb{file}
-      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Duan - 2020 - Automatic alignment of contemporary vector data and georeferenced historical maps using reinforcemen.pdf
-      \endverb
     \endentry
     \entry{janowiczPhilosophicalFoundationsGeoAI2023}{online}{}{}
       \name{author}{1}{}{%
@@ -1882,28 +1514,6 @@
       \verb https://doi.org/10.1080/13658816.2019.1684500
       \endverb
     \endentry
-    \entry{Jev113Jaggedness}{online}{}{}
-      \list{organization}{1}{%
-        {TypeSafe}%
-      }
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Jev isn't perfect. Here are some jagged edges we are aware of with jev-1.13. Many of these will be fixed in later versions.}
-      \field{langid}{english}
-      \field{title}{Jev 1.13 Jaggedness}
-      \field{urlday}{26}
-      \field{urlmonth}{10}
-      \field{urlyear}{2026}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
-      \endverb
-      \verb{url}
-      \verb https://docs.typesafe.ai/model-jaggedness/jev-1.13
-      \endverb
-    \endentry
     \entry{jiFoundationModelsGeospatial2025}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d59f1323f26b22fedda5e6b77debfd1c}{%
@@ -1983,44 +1593,6 @@
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2511227
       \endverb
-    \endentry
-    \entry{kahnemanThinkingFastSlow2011}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
-           family={Kahneman},
-           familyi={K\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Farrar, Straus and Giroux}%
-      }
-      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{fullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{bibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorbibnamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authornamehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \strng{authorfullhashraw}{d0dcea81f8587e7d56bb5dbe34a39d6c}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1st ed}
-      \field{isbn}{978-0-374-27563-1 978-0-374-53355-7 978-0-606-27564-4}
-      \field{pagetotal}{499}
-      \field{title}{Thinking, Fast and Slow}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \keyw{Decision making,Intuition,Reasoning,Thought and thinking}
     \endentry
     \entry{liGIScienceEraArtificial2025}{article}{}{}
       \name{author}{16}{}{%
@@ -2168,240 +1740,6 @@
       \verb{url}
       \verb https://doi.org/10.1080/19475683.2025.2552161
       \endverb
-    \endentry
-    \entry{schulhoffPromptReportSystematic2025}{online}{}{}
-      \name{author}{31}{}{%
-        {{un=0,uniquepart=base,hash=572b48d10d1ca3e03df3bc08618dd048}{%
-           family={Schulhoff},
-           familyi={S\bibinitperiod},
-           given={Sander},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f773aed534a538a4d3ae125e53c149ea}{%
-           family={Ilie},
-           familyi={I\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=808d5cf88672b716f29359a1f06601a7}{%
-           family={Balepur},
-           familyi={B\bibinitperiod},
-           given={Nishant},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5656eef590db99fef15521bd8d6664a2}{%
-           family={Kahadze},
-           familyi={K\bibinitperiod},
-           given={Konstantine},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7db5a7d413ea00d686fedd2fca543e76}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Amanda},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=50e55ce524a6cabd5d5e862c580e6869}{%
-           family={Si},
-           familyi={S\bibinitperiod},
-           given={Chenglei},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f29f16103d47cb547a785ee081268c6c}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yinheng},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9296da738820f1b8b76320d669ddf026}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={Aayush},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8d84a2e19f8a55ae31fed72deaca052f}{%
-           family={Han},
-           familyi={H\bibinitperiod},
-           given={HyoJung},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=585714f3d76ef67cccb61d198cf96414}{%
-           family={Schulhoff},
-           familyi={S\bibinitperiod},
-           given={Sevien},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ecf854451ee44b99aed3d2a8f75f16f7}{%
-           family={Dulepet},
-           familyi={D\bibinitperiod},
-           given={Pranav\bibnamedelima Sandeep},
-           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5273e3b95f1d5e352c8928ac085b77dd}{%
-           family={Vidyadhara},
-           familyi={V\bibinitperiod},
-           given={Saurav},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4faf825befa660f75adda8a62fbfb09c}{%
-           family={Ki},
-           familyi={K\bibinitperiod},
-           given={Dayeon},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f4421642bbde13def706feefe9c39cd7}{%
-           family={Agrawal},
-           familyi={A\bibinitperiod},
-           given={Sweta},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c29742d2f39170d7cf9a84130831a615}{%
-           family={Pham},
-           familyi={P\bibinitperiod},
-           given={Chau},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=56c2ff6af16c277a949b37c15764cea3}{%
-           family={Kroiz},
-           familyi={K\bibinitperiod},
-           given={Gerson},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ab0ec45eff644771d4bff0e3c40ea5b4}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Feileen},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc4392d541b6736084a5924ff2835aee}{%
-           family={Tao},
-           familyi={T\bibinitperiod},
-           given={Hudson},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=99ef240a2d6161f24bf8e184d702b858}{%
-           family={Srivastava},
-           familyi={S\bibinitperiod},
-           given={Ashay},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3d1e53ef82e068c9b4c0ac36b5a62465}{%
-           family={Costa},
-           familyi={C\bibinitperiod},
-           given={Hevander\bibnamedelima Da},
-           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cabc6222f57be750e3994dd409393bcb}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={Saloni},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=dddf87565cbd257bcff294fa6895bb9b}{%
-           family={Rogers},
-           familyi={R\bibinitperiod},
-           given={Megan\bibnamedelima L.},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffeb4cadd4e7a686ad942605402b1421}{%
-           family={Goncearenco},
-           familyi={G\bibinitperiod},
-           given={Inna},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e98891b7c731d9cde323ca7421d57c3}{%
-           family={Sarli},
-           familyi={S\bibinitperiod},
-           given={Giuseppe},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1ec2a89421c1103dd9b9d95f01373ea8}{%
-           family={Galynker},
-           familyi={G\bibinitperiod},
-           given={Igor},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=881557f79cb190ba4cc79eb775dc3db7}{%
-           family={Peskoff},
-           familyi={P\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9cf67a53d9ebd335c787b143ec098196}{%
-           family={Carpuat},
-           familyi={C\bibinitperiod},
-           given={Marine},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d224ecfefc70293d1b9b28a1915cf6f2}{%
-           family={White},
-           familyi={W\bibinitperiod},
-           given={Jules},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9a831d318c9a798d7b9d1aff1545943e}{%
-           family={Anadkat},
-           familyi={A\bibinitperiod},
-           given={Shyamal},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=44177551d66b6f0da271276a2b65f585}{%
-           family={Hoyle},
-           familyi={H\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ba57143778a42bc76658900fe675e760}{%
-           family={Resnik},
-           familyi={R\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ef0db98bd7be90261474bc3de8f33007}
-      \strng{fullhash}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{fullhashraw}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{bibnamehash}{294734480bfd6712c6dcd1040d93c39c}
-      \strng{authorbibnamehash}{294734480bfd6712c6dcd1040d93c39c}
-      \strng{authornamehash}{ef0db98bd7be90261474bc3de8f33007}
-      \strng{authorfullhash}{ae2bed18fe078315a7d427dea7c41cfc}
-      \strng{authorfullhashraw}{ae2bed18fe078315a7d427dea7c41cfc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Generative Artificial Intelligence (GenAI) systems are increasingly being deployed across diverse industries and research domains. Developers and end-users interact with these systems through the use of prompting and prompt engineering. Although prompt engineering is a widely adopted and extensively researched area, it suffers from conflicting terminology and a fragmented ontological understanding of what constitutes an effective prompt due to its relatively recent emergence. We establish a structured understanding of prompt engineering by assembling a taxonomy of prompting techniques and analyzing their applications. We present a detailed vocabulary of 33 vocabulary terms, a taxonomy of 58 LLM prompting techniques, and 40 techniques for other modalities. Additionally, we provide best practices and guidelines for prompt engineering, including advice for prompting state-of-the-art (SOTA) LLMs such as ChatGPT. We further present a meta-analysis of the entire literature on natural language prefix-prompting. As a culmination of these efforts, this paper presents the most comprehensive survey on prompt engineering to date.}
-      \field{day}{26}
-      \field{eprintclass}{cs}
-      \field{eprinttype}{arXiv}
-      \field{month}{2}
-      \field{shorttitle}{The {{Prompt Report}}}
-      \field{title}{The {{Prompt Report}}: {{A Systematic Survey}} of {{Prompt Engineering Techniques}}}
-      \field{urlday}{23}
-      \field{urlmonth}{3}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.48550/arXiv.2406.06608
-      \endverb
-      \verb{eprint}
-      \verb 2406.06608
-      \endverb
-      \verb{file}
-      \verb /home/jakob/ucloud/KOReader/Zotero/Projects/MasterThesis/Schulhoff et al. - 2025 - The Prompt Report A Systematic Survey of Prompt Engineering Techniques.pdf;/home/jakob/ucloud/Zotero/storage/YZUCDMNZ/2406.html
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/2406.06608
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/2406.06608
-      \endverb
-      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Prompt Engineering}
     \endentry
     \entry{shiGeographyAISustainability2025}{article}{}{}
       \name{author}{9}{}{%
